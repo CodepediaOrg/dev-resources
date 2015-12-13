@@ -1,7 +1,6 @@
 # dev-bookmarks
 * [CSS](#css)
 * [Docker](#docker)
-* Eclipse(#eclipse)
 * [IntelliJ](#intellij)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -20,18 +19,12 @@
 * [Is IntelliJ IDEA shining through Eclipse?](http://www.codingpedia.org/ama/is-intellij-idea-shining-through-eclipse/) - (eclipse, ide, keyboard shortcuts)
 
 ### Java
-* books
-* tutorials
-* twitter
-* videos
-*
-* core
-  * enums
-    * [Enum Types - Java tutorial oracle](http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
-    * [JPA and Enums via @Enumerated](http://tomee.apache.org/examples-trunk/jpa-enumerated/README.html)
+* [Trail: Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html) - [java-core, tutorial, oracle, ]
+* jpa
+    * [JPA and Enums via @Enumerated](http://tomee.apache.org/examples-trunk/jpa-enumerated/README.html) - [apache, tomee]
 * java8
   * [java 8 the missing tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial)
-  * [JDK 8 & Lambdas, Streams et Collectors - video french](http://www.infoq.com/fr/presentations/jdk8-lambdas-streams-collectors?displayableIdp=google&idp=2&emailMatch=adrianmatei@gmail.com#downloadPdf)
+  * [JDK 8 & Lambdas, Streams et Collectors ](http://www.infoq.com/fr/presentations/jdk8-lambdas-streams-collectors?displayableIdp=google&idp=2&emailMatch=adrianmatei@gmail.com#downloadPdf) - [video, french]
 
 ### JavaScript
 * [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) - [mdn, javascript-core]
