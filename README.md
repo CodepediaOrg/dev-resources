@@ -4,8 +4,8 @@
 * Eclipse(#eclipse)
 * [IntelliJ](#intellij)
 * [Java](#java)
-* JavaScript
-* MySQL
+* [JavaScript](#javascript)
+* [MySQL](#mysql)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
 
@@ -32,6 +32,10 @@
 * java8
   * [java 8 the missing tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial)
   * [JDK 8 & Lambdas, Streams et Collectors - video french](http://www.infoq.com/fr/presentations/jdk8-lambdas-streams-collectors?displayableIdp=google&idp=2&emailMatch=adrianmatei@gmail.com#downloadPdf)
+
+### JavaScript
+* [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) - [mdn, javascript-core]
+* [Debugging JavaScript in Chrome](https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints/) - [chrome, devtools, google developers ]
 
 ### <a name="mysql"></a>MySQL
 * [MySQL Documentation](https://dev.mysql.com/doc/) - [official, documentation]
