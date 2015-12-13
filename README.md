@@ -35,7 +35,7 @@
 
 ### <a name="mysql"></a>MySQL
 * (MySQL Documentation)[https://dev.mysql.com/doc/] - (official, documentation)
-* (How To Create a New User and Grant Permissions in MySQL)[https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql] - (command-line, digitalocean)
+* [How To Create a New User and Grant Permissions in MySQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql) - (command-line, digitalocean)
 * [Optimizing MySQL server settings](http://www.codingpedia.org/ama/optimizing-mysql-server-settings/) - (mysql-5.5, codingpedia)
 
 
