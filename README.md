@@ -10,7 +10,7 @@
 * [Java](#java)
 * JavaScript
 * Spring
-* [Spring security](#spring security)
+* [Spring Security](#spring-security)
 
 ### docker
 * [Docker user guide](https://docs.docker.com/engine/userguide/) - (official, beginner)
@@ -31,5 +31,5 @@
   * [JDK 8 & Lambdas, Streams et Collectors - video french](http://www.infoq.com/fr/presentations/jdk8-lambdas-streams-collectors?displayableIdp=google&idp=2&emailMatch=adrianmatei@gmail.com#downloadPdf)
 
 ### Spring
-### Spring security
+### <a name="spring-security"></a>Spring security
 * [Spring Security Reference](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - (official, html-single-page)
