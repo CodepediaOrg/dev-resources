@@ -4,6 +4,7 @@
 * [IntelliJ](#intellij)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [JWT - JSON Web Tokens](#jwt)
 * [MySQL](#mysql)
 * [NodeJS] (#nodejs)
 * [OAuth2] (#oauth2)
@@ -37,6 +38,12 @@
 * [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) - [mdn, mozilla, javascript-core]
 * [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) - [mdn, javascript-core]
 * [Debugging JavaScript in Chrome](https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints/) - [chrome, devtools, google developers ]
+
+### <a name="jwt"></a> JWT - JSON Web Tokens - [web-security, json]
+JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with HMAC algorithm) or a public/private key pair using RSA.
+https://tools.ietf.org/html/rfc7519
+* [JSON Web Token (JWT) - RFX](https://tools.ietf.org/html/rfc7519) - [rfc, ietf]
+* [Introduction to JSON Web Tokens](http://jwt.io/introduction/) - [intro, beginner, auth0]
 
 ### <a name="mysql"></a>MySQL
 * [MySQL Documentation](https://dev.mysql.com/doc/) - [official, documentation]
