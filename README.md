@@ -6,6 +6,7 @@
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
 * [NodeJS] (#nodejs)
+* [OAuth2] (#oauth2)
 * [OpenID Connect](#openid-connect)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
@@ -43,6 +44,11 @@
 * [Optimizing MySQL server settings](http://www.codingpedia.org/ama/optimizing-mysql-server-settings/) - (mysql-5.5, codingpedia)
 
 ### NodeJS
+ 
+### <a name="oauth2"></a>OAuth 2.0 [web-security, sso]
+[OAuth 2.0](http://oauth.net/2/) is the next evolution of the OAuth protocol which was originally created in late 2006. OAuth 2.0 focuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, mobile phones, and living room devices.
+* [OAuth 2.0 Tutorial](http://tutorials.jenkov.com/oauth2/index.html) - [tutorial, beginner, intro]
+
 
 ### <a name="openid-connect"></a>OpenID Connect [web-security, sso, json, identity-provision, oauth2, jwt]
 OpenID Connect is an interoperable authentication protocol based on the OAuth 2.0 family of specifications. It uses straightforward REST/JSON message flows with a design goal of “making simple things simple and complicated things possible”. It’s uniquely easy for developers to integrate, compared to any preceding Identity protocol.
