@@ -6,6 +6,7 @@
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
 * [NodeJS] (#nodejs)
+* [OpenID Connect](#openid-connect)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
 
@@ -43,6 +44,11 @@
 
 ### NodeJS
 
+### OpenID Connect [web-security, sso, json, identity-provision, oauth2, jwt]
+OpenID Connect is an interoperable authentication protocol based on the OAuth 2.0 family of specifications. It uses straightforward REST/JSON message flows with a design goal of “making simple things simple and complicated things possible”. It’s uniquely easy for developers to integrate, compared to any preceding Identity protocol.
+* [Welcome to OpenID Connect](http://openid.net/connect/) - [oficial, specifications]
+* [OpenID Connect FAQ and Q&As](http://openid.net/connect/faq/) - [oficial, faq]
+* [OpenID Connect Explained](http://connect2id.com/learn/openid-connect) - [intro, clear, oidc]
 
 ### Spring
 * [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/) - [official, htmlsingle]
