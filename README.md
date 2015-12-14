@@ -5,6 +5,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [JWT - JSON Web Tokens](#jwt)
+* [Keycloak](#keycloak)
 * [MySQL](#mysql)
 * [NodeJS] (#nodejs)
 * [OAuth2] (#oauth2)
@@ -44,6 +45,10 @@ JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and s
 https://tools.ietf.org/html/rfc7519
 * [JSON Web Token (JWT) - RFX](https://tools.ietf.org/html/rfc7519) - [rfc, ietf]
 * [Introduction to JSON Web Tokens](http://jwt.io/introduction/) - [intro, beginner, auth0]
+
+### Keycloak - \[sso, idm, REST, oauth2, openid-connect, jwt, saml2\]
+[Keycloak](http://keycloak.jboss.org/) is an integrated SSO and IDM for browser apps and RESTful web services.  Built on top of the OAuth 2.0, Open ID Connect, JSON Web Token (JWT) and SAML 2.0 specifications. 
+* [Documentation](http://keycloak.jboss.org/docs) - \[user-guide, video-tutorials, basics\]
 
 ### <a name="mysql"></a>MySQL
 * [MySQL Documentation](https://dev.mysql.com/doc/) - [official, documentation]
