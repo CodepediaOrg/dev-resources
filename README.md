@@ -6,6 +6,7 @@
 * [JavaScript](#javascript)
 * [JWT - JSON Web Tokens](#jwt)
 * [Keycloak](#keycloak)
+* [Linux/Unix](#linux-unix)
 * [MySQL](#mysql)
 * [Nginx](#nginx)
 * [NodeJS] (#nodejs)
@@ -41,7 +42,7 @@
 * [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) - [mdn, javascript-core]
 * [Debugging JavaScript in Chrome](https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints/) - [chrome, devtools, google developers ]
 
-### <a name="jwt"></a> JWT - JSON Web Tokens - [web-security, json]
+### <a name="jwt"></a>JWT - JSON Web Tokens - [web-security, json]
 JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with HMAC algorithm) or a public/private key pair using RSA.
 https://tools.ietf.org/html/rfc7519
 * [JSON Web Token (JWT) - RFX](https://tools.ietf.org/html/rfc7519) - [rfc, ietf]
@@ -50,6 +51,10 @@ https://tools.ietf.org/html/rfc7519
 ### Keycloak - \[sso, idm, REST, oauth2, openid-connect, jwt, saml2\]
 [Keycloak](http://keycloak.jboss.org/) is an integrated SSO and IDM for browser apps and RESTful web services.  Built on top of the OAuth 2.0, Open ID Connect, JSON Web Token (JWT) and SAML 2.0 specifications. 
 * [Documentation](http://keycloak.jboss.org/docs) - \[user-guide, video-tutorials, basics\]
+
+### <a name="linux-unix"></a>Linux/Unix
+* Commands
+  * [List the contents of a tar or tar.gz file](http://www.cyberciti.biz/faq/list-the-contents-of-a-tar-or-targz-file/) - \[nixCraft\]  
 
 ### <a name="mysql"></a>MySQL
 * [MySQL Documentation](https://dev.mysql.com/doc/) - [official, documentation]
