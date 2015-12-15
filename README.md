@@ -54,8 +54,10 @@ https://tools.ietf.org/html/rfc7519
 
 ### <a name="linux-unix"></a>Linux/Unix
 * Commands
+  * [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/) - \[bash, ss64\]  
   * [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - \[nixCraft\]
   * [List the contents of a tar or tar.gz file](http://www.cyberciti.biz/faq/list-the-contents-of-a-tar-or-targz-file/) - \[nixCraft\]  
+  * [Linux: Find Out Which Process Is Listening Upon a Port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
 
 ### <a name="mysql"></a>MySQL
 * [MySQL Documentation](https://dev.mysql.com/doc/) - [official, documentation]
