@@ -54,6 +54,7 @@ https://tools.ietf.org/html/rfc7519
 
 ### <a name="linux-unix"></a>Linux/Unix
 * Commands
+  * [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - \[nixCraft\]
   * [List the contents of a tar or tar.gz file](http://www.cyberciti.biz/faq/list-the-contents-of-a-tar-or-targz-file/) - \[nixCraft\]  
 
 ### <a name="mysql"></a>MySQL
