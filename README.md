@@ -7,6 +7,7 @@
 * [JWT - JSON Web Tokens](#jwt)
 * [Keycloak](#keycloak)
 * [MySQL](#mysql)
+* [Nginx](#nginx)
 * [NodeJS] (#nodejs)
 * [OAuth2] (#oauth2)
 * [OpenID Connect](#openid-connect)
@@ -54,6 +55,10 @@ https://tools.ietf.org/html/rfc7519
 * [MySQL Documentation](https://dev.mysql.com/doc/) - [official, documentation]
 * [How To Create a New User and Grant Permissions in MySQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql) - (command-line, digitalocean)
 * [Optimizing MySQL server settings](http://www.codingpedia.org/ama/optimizing-mysql-server-settings/) - (mysql-5.5, codingpedia)
+
+### Nginx \[web server, proxy server, load balancer \]
+Nginx (pronounced "engine x") is a web server with a strong focus on high concurrency, performance and low memory usage. It can also act as a reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer and an HTTP cache.
+* [Beginner's Guide](/en/docs/beginners_guide.html) - \[beginner, tutorial, setting up\]
 
 ### NodeJS
  
