@@ -50,6 +50,9 @@
   * [Top 5 Java Profilers Revealed: Real world data with VisualVM, JProfiler, Java Mission Control, YourKit and Custom tooling.](http://zeroturnaround.com/rebellabs/top-5-java-profilers-revealed-real-world-data-with-visualvm-jprofiler-java-mission-control-yourkit-and-custom-tooling/)
 
 ### JavaScript
+* [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+The JavaScript Guide shows you how to use JavaScript and gives an overview of the language. If you want to get started with JavaScript or programming in general, consult the articles in the learning area. If you need exhaustive information about a language feature, have a look at the JavaScript reference. - \[mdn, mozilla, basics\]
+* [JavaScript for Cats](http://jsforcats.com/) - \[beginner, programmer, callbacks\]
 * [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) - \[mdn, mozilla, javascript-core\]
 * [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) - [mdn, javascript-core]
 * [Debugging JavaScript in Chrome](https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints/) - [chrome, devtools, google developers ]
