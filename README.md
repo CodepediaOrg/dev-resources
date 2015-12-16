@@ -27,7 +27,8 @@
 
 ### Java
 * core
-   * [Trail: Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html) - [java-core, tutorial, oracle, ]
+   * [Trail: Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html) - [java-core, tutorial, oracle ]
+   * [Difference between SPI and API](http://stackoverflow.com/questions/2954372/difference-between-spi-and-api) - [stackoverflow, api, spi]
 * jpa
     * [Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence) - [wikibooks, oneToMany, ManyToMany]  
     * [JPA and Enums via @Enumerated](http://tomee.apache.org/examples-trunk/jpa-enumerated/README.html) - [apache, tomee]
