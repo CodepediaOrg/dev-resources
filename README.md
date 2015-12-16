@@ -51,7 +51,7 @@
 
 ### JavaScript
 * books
-  * [Eloquent JavaScript](http://eloquentjavascript.net/) - \[beginner, basics, and more\]
+  * [Eloquent JavaScript](http://eloquentjavascript.net/)  by [Marijn Haverbeke](http://marijnhaverbeke.nl/) - \[@marijnjh, beginner, basics, and more\]
 * [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 The JavaScript Guide shows you how to use JavaScript and gives an overview of the language. If you want to get started with JavaScript or programming in general, consult the articles in the learning area. If you need exhaustive information about a language feature, have a look at the JavaScript reference. - \[mdn, mozilla, basics\]
 * [JavaScript for Cats](http://jsforcats.com/) - \[beginner, programmer, callbacks, @denormalize\]
