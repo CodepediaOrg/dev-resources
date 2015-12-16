@@ -1,4 +1,6 @@
 # dev-bookmarks
+* [AngularJS](#angularjs)
+* [AngularJS 2](#angularjs2)
 * [CSS](#css)
 * [Docker](#docker)
 * [IntelliJ](#intellij)
@@ -15,6 +17,12 @@
 * [OpenID Connect](#openid-connect)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
+
+### AngularJS
+[AngularJS](https://docs.angularjs.org/guide/introduction) is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. Angular's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.
+
+### <a name="angularjs2"></a>AngularJS 2
+* [The Beginner’s Preemptive Guide To AngularJS 2 Alpha](http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/) \[introduction, tutorial, typescript, gulp\]
 
 ### CSS
 * [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp) (basics, w3schools)
