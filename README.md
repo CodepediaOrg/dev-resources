@@ -76,6 +76,8 @@ https://tools.ietf.org/html/rfc7519
   * [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - \[nixCraft\]
   * [List the contents of a tar or tar.gz file](http://www.cyberciti.biz/faq/list-the-contents-of-a-tar-or-targz-file/) - \[nixCraft\]  
   * [Linux: Find Out Which Process Is Listening Upon a Port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
+* Kernel
+  * [Linux Signals Fundamentals](http://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/)
 
 ### <a name="maven"></a>Maven
 [Maven](https://maven.apache.org/what-is-maven.html), a Yiddish word meaning accumulator of knowledge, was originally started as an attempt to simplify the build processes in the Jakarta Turbine project. There were several projects each with their own Ant build files that were all slightly different and JARs were checked into CVS. We wanted a standard way to build the projects, a clear definition of what the project consisted of, an easy way to publish project information and a way to share JARs across several projects.
