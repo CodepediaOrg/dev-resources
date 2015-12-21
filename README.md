@@ -28,8 +28,10 @@
 * [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp) (basics, w3schools)
 
 ### Docker
+[Docker](https://www.docker.com/what-docker) allows you to package an application with all of its dependencies into a standardized unit for software development.
 * [Docker user guide](https://docs.docker.com/engine/userguide/) - [official, beginner]
 * [How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04) - [digitalocean, docker-compose]
+* [Docker MySQL Persistence]() - \[2015.03, mysql, data volumes\]
 
 ###<a name="intellij"></a> IntelliJ
 * [Is IntelliJ IDEA shining through Eclipse?](http://www.codingpedia.org/ama/is-intellij-idea-shining-through-eclipse/) - (eclipse, ide, keyboard shortcuts)
