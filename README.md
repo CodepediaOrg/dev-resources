@@ -95,7 +95,8 @@ The result is a tool that can now be used for building and managing any Java-bas
 
 ###  <a name="nginx"></a> Nginx \[web server, proxy server, load balancer \]
 Nginx (pronounced "engine x") is a web server with a strong focus on high concurrency, performance and low memory usage. It can also act as a reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer and an HTTP cache.
-* [Beginner's Guide](/en/docs/beginners_guide.html) - \[beginner, tutorial, setting up\]
+* [Beginner's Guide](http://nginx.com/en/docs/beginners_guide.html) - \[beginner, tutorial, setting up\]
+* [Tuning NGINX for Performance](https://www.nginx.com/blog/tuning-nginx/) - \[2014.10, official, setting up\]
 * [How To Run Nginx in a Docker Container on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-run-nginx-in-a-docker-container-on-ubuntu-14-04) - \[docker, digital ocean, ubuntu14.04\]
 * [Understanding the Nginx Configuration File Structure and Configuration Contexts](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts) - \[digitalocean\]
 * [NGINX PRIMER 2: FROM APACHE TO NGINX](https://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/) - \[apache, migration\]
