@@ -39,6 +39,7 @@
 ### Java
 * core
    * [Trail: Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html) - [java-core, tutorial, oracle ]
+   * [Java Exception Handling](http://tutorials.jenkov.com/java-exception-handling/index.html) - \[2014.06, @jjenkov\]
    * [Difference between SPI and API](http://stackoverflow.com/questions/2954372/difference-between-spi-and-api) - [stackoverflow, api, spi]
 * jpa
     * [Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence) - [wikibooks, oneToMany, ManyToMany]  
