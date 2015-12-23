@@ -77,6 +77,8 @@ https://tools.ietf.org/html/rfc7519
 * [Documentation](http://keycloak.jboss.org/docs) - \[user-guide, video-tutorials, basics\]
 
 ### <a name="linux-unix"></a>Linux/Unix
+* bash
+  * [Configuring your login sessions with dot files](http://mywiki.wooledge.org/DotFiles) - \[.profile, .bash_profile, .bashrc, /etc/profile\] 
 * Commands
   * [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/) - \[bash, ss64\]  
   * [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - \[nixCraft\]
@@ -130,3 +132,5 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 ### <a name="vi"></a>vi/vim
 vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Unix operating system. The portable subset of the behavior of vi and programs based on it, and the ex editor language supported within these programs, is described by (and thus standardized by) the Single Unix Specification and POSIX.
 * [130+ ESSENTIAL VIM COMMANDS](http://www.catswhocode.com/blog/130-essential-vim-commands) - \[2013.12, @catswhocode\]
+* [Copy, cut and paste](http://vim.wikia.com/wiki/Copy,_cut_and_paste) - \[2002.13, wikia\]
+* [Moving around](http://vim.wikia.com/wiki/Moving_around) - \[2001.01, wikia\]* 
