@@ -49,6 +49,8 @@
   * [JDK 8 & Lambdas, Streams et Collectors ](http://www.infoq.com/fr/presentations/jdk8-lambdas-streams-collectors?displayableIdp=google&idp=2&emailMatch=adrianmatei@gmail.com#downloadPdf) - [video, french]
 * javamail
    * [Javamail API FAQ](http://www.oracle.com/technetwork/java/javamail/faq/index.html) - [oracle] 
+* keystore
+  * [The Most Common Java Keytool Keystore Commands](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html) - \[keytool commands, keystore\]
 * profilers
   * [Top 5 Java Profilers Revealed: Real world data with VisualVM, JProfiler, Java Mission Control, YourKit and Custom tooling.](http://zeroturnaround.com/rebellabs/top-5-java-profilers-revealed-real-world-data-with-visualvm-jprofiler-java-mission-control-yourkit-and-custom-tooling/)
 
