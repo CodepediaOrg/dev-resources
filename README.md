@@ -17,7 +17,8 @@
 * [OpenID Connect](#openid-connect)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
-
+* [vi/vim](#vi)
+* 
 ### AngularJS
 [AngularJS](https://docs.angularjs.org/guide/introduction) is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. Angular's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.
 
@@ -124,3 +125,7 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 
 ### <a name="spring-security"></a>Spring security
 * [Spring Security Reference](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - [official, htmlsingle]
+
+### <a name="vi"></a>vi/vim
+vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Unix operating system. The portable subset of the behavior of vi and programs based on it, and the ex editor language supported within these programs, is described by (and thus standardized by) the Single Unix Specification and POSIX.
+* [130+ ESSENTIAL VIM COMMANDS](http://www.catswhocode.com/blog/130-essential-vim-commands) - \[2013.12, @catswhocode\]
