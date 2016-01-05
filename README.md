@@ -2,6 +2,7 @@
 * [AngularJS](#angularjs)
 * [AngularJS 2](#angularjs2)
 * [CSS](#css)
+* [Dev Utilities & Power Tools](#dev-utilities)
 * [Docker](#docker)
 * [IntelliJ](#intellij)
 * [Java](#java)
@@ -28,6 +29,10 @@
 
 ### CSS
 * [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp) (basics, w3schools)
+
+###<a name="dev-utilities"></a> Dev Utilities & Power Tools
+Collection of utilities 
+* [JSON Editor Online](http://www.jsoneditoronline.org/)- \[json, online, editor\]
 
 ### Docker
 [Docker](https://www.docker.com/what-docker) allows you to package an application with all of its dependencies into a standardized unit for software development.
