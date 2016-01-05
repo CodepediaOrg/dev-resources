@@ -120,6 +120,8 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 ### <a name="oauth2"></a>OAuth 2.0 [web-security, sso]
 [OAuth 2.0](http://oauth.net/2/) is the next evolution of the OAuth protocol which was originally created in late 2006. OAuth 2.0 focuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, mobile phones, and living room devices.
 * [OAuth 2.0 Tutorial](http://tutorials.jenkov.com/oauth2/index.html) - [tutorial, beginner, intro]
+* [Using OAuth 2.0 to Access Google APIs](https://developers.google.com/identity/protocols/OAuth2) - [google api, google developers, google]
+* [Using OAuth 2.0 for Web Server Applications](https://developers.google.com/identity/protocols/OAuth2WebServer) - [google api, google developers, google]
 
 
 ### <a name="openid-connect"></a>OpenID Connect [web-security, sso, json, identity-provision, oauth2, jwt]
