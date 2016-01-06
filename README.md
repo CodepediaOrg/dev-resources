@@ -165,3 +165,4 @@ vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Uni
 [WildFly](http://wildfly.org/), formerly known as JBoss AS, or simply JBoss, is an application server authored by JBoss, now developed by Red Hat. WildFly is written in Java, and implements the Java Platform, Enterprise Edition (Java EE) specification.
 * [Enable Wildfly remote access](http://bgasparotto.com/enable-wildfly-remote-access/) - \[2015.04, wildfly 8.2.0, standalone\]
 * [Install Mysql JDBC Driver on WildFly 8.2](http://giordanomaestro.blogspot.ch/2015/02/install-jdbc-driver-on-wildfly.html) - \[2015.04, wildfly 8.2.0, standalone, mysql-connector, jdbc\]
+* [WildFly 8.2.0 on Ubuntu 14.04](https://gesker.wordpress.com/2015/02/17/quick-install-wildfly-8-2-0-on-ubuntu-14-04/) - \[2015.02, wildfly 8.2.0, install, start stop as a service\]
