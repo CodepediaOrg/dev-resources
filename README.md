@@ -20,6 +20,7 @@
 * [Spring](#spring)
 * [Spring Security](#spring-security)
 * [vi/vim](#vi)
+* [Wildfly](#wildfly)
 
 ### AngularJS
 [AngularJS](https://docs.angularjs.org/guide/introduction) is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. Angular's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.
@@ -152,4 +153,9 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Unix operating system. The portable subset of the behavior of vi and programs based on it, and the ex editor language supported within these programs, is described by (and thus standardized by) the Single Unix Specification and POSIX.
 * [130+ ESSENTIAL VIM COMMANDS](http://www.catswhocode.com/blog/130-essential-vim-commands) - \[2013.12, @catswhocode\]
 * [Copy, cut and paste](http://vim.wikia.com/wiki/Copy,_cut_and_paste) - \[2002.13, wikia\]
-* [Moving around](http://vim.wikia.com/wiki/Moving_around) - \[2001.01, wikia\]* 
+* [Moving around](http://vim.wikia.com/wiki/Moving_around) - \[2001.01, wikia\]
+
+### <a name="wildfly"></a>Wildfly
+[WildFly](http://wildfly.org/), formerly known as JBoss AS, or simply JBoss, is an application server authored by JBoss, now developed by Red Hat. WildFly is written in Java, and implements the Java Platform, Enterprise Edition (Java EE) specification.
+* [Enable Wildfly remote access](http://bgasparotto.com/enable-wildfly-remote-access/) - \[2015.04, wildfly 8.2.0, standalone\]
+* [Install Mysql JDBC Driver on WildFly 8.2](http://giordanomaestro.blogspot.ch/2015/02/install-jdbc-driver-on-wildfly.html) - \[2015.04, wildfly 8.2.0, standalone, mysql-connector, jdbc\]
