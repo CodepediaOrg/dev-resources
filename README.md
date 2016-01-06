@@ -86,7 +86,9 @@ https://tools.ietf.org/html/rfc7519
 * bash
   * [Configuring your login sessions with dot files](http://mywiki.wooledge.org/DotFiles) - \[.profile, .bash_profile, .bashrc, /etc/profile\] 
 * Commands
+  * `mkdir -p folder/subfolder` - the `-p` flag causes any parent directory to be created if necessary
   * [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/) - \[bash, ss64\]  
+  * [Finding a File Containing a Particular Text String In Linux Server](http://www.cyberciti.biz/faq/howto-search-find-file-for-text-string/) - \[grep, egrep, search, find] 
   * [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - \[nixCraft\]
   * [List the contents of a tar or tar.gz file](http://www.cyberciti.biz/faq/list-the-contents-of-a-tar-or-targz-file/) - \[nixCraft\]  
   * [Linux: Find Out Which Process Is Listening Upon a Port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
