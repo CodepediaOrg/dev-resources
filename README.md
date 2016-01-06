@@ -108,6 +108,7 @@ The result is a tool that can now be used for building and managing any Java-bas
 
 ### <a name="mysql"></a>MySQL
 * Commands
+  * `mysql -uuser -ppassword`=`mysql --user=user --password=password` - connect the user with password to the mysql server - for security reasons it's advised to leave the password's value out (`mysql -uuser -p`)
   * `SHOW COlUMNS from TABLE` - shows columns for table; 
   * `show tables` - shows tables for db;
 * [MySQL Documentation](https://dev.mysql.com/doc/) - [official, documentation]
