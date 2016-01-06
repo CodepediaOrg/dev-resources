@@ -17,6 +17,7 @@
 * [NodeJS] (#nodejs)
 * [OAuth2] (#oauth2)
 * [OpenID Connect](#openid-connect)
+* [Shell scripting](#shell-scripting)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
 * [vi/vim](#vi)
@@ -142,6 +143,9 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 * [Welcome to OpenID Connect](http://openid.net/connect/) - [oficial, specifications]
 * [OpenID Connect FAQ and Q&As](http://openid.net/connect/faq/) - [oficial, faq]
 * [OpenID Connect Explained](http://connect2id.com/learn/openid-connect) - [intro, clear, oidc]
+
+### <a name="shell-scripting"></a>Shell scripting
+* [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/index.html) - \[2002, beginner, handbook\]
 
 ### Spring
 * [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/) - [official, htmlsingle]
