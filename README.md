@@ -96,7 +96,9 @@ https://tools.ietf.org/html/rfc7519
   * [Linux: Find Out Which Process Is Listening Upon a Port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
 * Kernel
   * [Linux Signals Fundamentals](http://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/)
-
+  * [nohup Execute Commands After You Exit From a Shell Prompt](http://www.cyberciti.biz/tips/nohup-execute-commands-after-you-exit-from-a-shell-prompt.html) - \[nixCraft, ssh, nohup\]
+  
+  
 ### <a name="mint-ubuntu"></a>Linux Mint/Ubuntu
 * [Use alias to create shortcuts for commands](http://community.linuxmint.com/tutorial/view/891) - \[alias, shortcut, efficiency\] 
  
