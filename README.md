@@ -107,6 +107,9 @@ The result is a tool that can now be used for building and managing any Java-bas
 * [Setting the -source and -target of the Java Compiler](https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html) - \[maven-compiler, plugin\]
 
 ### <a name="mysql"></a>MySQL
+* Commands
+  * `SHOW COlUMNS from TABLE` - shows columns for table; 
+  * `show tables` - shows tables for db;
 * [MySQL Documentation](https://dev.mysql.com/doc/) - [official, documentation]
 * [How To Create a New User and Grant Permissions in MySQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql) - (command-line, digitalocean)
 * [Optimizing MySQL server settings](http://www.codingpedia.org/ama/optimizing-mysql-server-settings/) - (mysql-5.5, codingpedia)
