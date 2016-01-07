@@ -36,6 +36,8 @@
 ###<a name="dev-utilities"></a> Dev Utilities & Power Tools
 Collection of utilities 
 * [JSON Editor Online](http://www.jsoneditoronline.org/)- \[json, online, editor\]
+* [JS Bin](http://jsbin.com/help/getting-started) - JS Bin is a tool for experimenting with web languages. In particular HTML, CSS and JavaScript, but JS Bin also supports other languages too (like Markdown, Jade and Sass).
+
 
 ### Docker
 [Docker](https://www.docker.com/what-docker) allows you to package an application with all of its dependencies into a standardized unit for software development.
