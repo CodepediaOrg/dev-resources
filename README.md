@@ -73,7 +73,6 @@ The JavaScript Guide shows you how to use JavaScript and gives an overview of th
 * [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) - \[mdn, mozilla, javascript-core\]
 * [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) - [mdn, javascript-core]
 * [Debugging JavaScript in Chrome](https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints/) - [chrome, devtools, google developers ]
-* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - \[reactive programming, RxJS, clear, 6k+ stars, github \]
 
 ### <a name="jwt"></a>JWT - JSON Web Tokens - [web-security, json]
 JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with HMAC algorithm) or a public/private key pair using RSA.
@@ -148,10 +147,11 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 * [OpenID Connect Explained](http://connect2id.com/learn/openid-connect) - [intro, clear, oidc]
 
 ### <a name="rxjs"></a>RxJS
+* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - \[reactive programming, RxJS, clear, 6k+ stars, github \]
 * [Reactive Programming - What is RxJS?](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs) - \[video, egghead.io, observable, @andrestaltz\]
 * [What Is RxJS?](https://egghead.io/lessons/rxjs-what-is-rxjs) - \[video, egghead.io, observable, async, @BenLesh\]
 * [RxJS Observables vs Promises](https://egghead.io/lessons/rxjs-rxjs-observables-vs-promises) - \[video, egghead.io, observable, promise, @BenLesh\]
-* 
+ 
 ### <a name="shell-scripting"></a>Shell scripting
 * [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/index.html) - \[2002, beginner, handbook\]
 
