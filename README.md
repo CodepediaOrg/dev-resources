@@ -17,6 +17,7 @@
 * [NodeJS] (#nodejs)
 * [OAuth2] (#oauth2)
 * [OpenID Connect](#openid-connect)
+* [RxJS](#rxjs)
 * [Shell scripting](#shell-scripting)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
@@ -146,6 +147,11 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 * [OpenID Connect FAQ and Q&As](http://openid.net/connect/faq/) - [oficial, faq]
 * [OpenID Connect Explained](http://connect2id.com/learn/openid-connect) - [intro, clear, oidc]
 
+### <a name="rxjs"></a>RxJS
+* [Reactive Programming - What is RxJS?](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs) - \[video, egghead.io, observable, @andrestaltz\]
+* [What Is RxJS?](https://egghead.io/lessons/rxjs-what-is-rxjs) - \[video, egghead.io, observable, async, @BenLesh\]
+* [RxJS Observables vs Promises](https://egghead.io/lessons/rxjs-rxjs-observables-vs-promises) - \[video, egghead.io, observable, promise, @BenLesh\]
+* 
 ### <a name="shell-scripting"></a>Shell scripting
 * [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/index.html) - \[2002, beginner, handbook\]
 
