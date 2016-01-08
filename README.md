@@ -91,6 +91,7 @@ https://tools.ietf.org/html/rfc7519
   * [Configuring your login sessions with dot files](http://mywiki.wooledge.org/DotFiles) - \[.profile, .bash_profile, .bashrc, /etc/profile\] 
 * Linux commands
   * `mkdir -p folder/subfolder` - the `-p` flag causes any parent directory to be created if necessary
+  * `namei -om /path/to/check` - easily display all the permissions on a path
   * [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/) - \[bash, ss64\]  
   * [Finding a File Containing a Particular Text String In Linux Server](http://www.cyberciti.biz/faq/howto-search-find-file-for-text-string/) - \[grep, egrep, search, find] 
   * [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - \[nixCraft\]
@@ -128,6 +129,7 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 * [Ubuntu Linux: Start / Restart / Stop Nginx Web Server](http://www.cyberciti.biz/faq/nginx-restart-ubuntu-linux-command/) - \[2011.01, @nixcraft, start nginx, stop nginx\]
 * [Tuning NGINX for Performance](https://www.nginx.com/blog/tuning-nginx/) - \[2014.10, official, setting up\]
 * [Serving static content](https://www.nginx.com/resources/admin-guide/serving-static-content/) - \[official, static content\]
+* [Pitfalls and Common Mistakes](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/) - \[official, static content, Read all of this! ALL OF IT!\]
 * [How To Run Nginx in a Docker Container on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-run-nginx-in-a-docker-container-on-ubuntu-14-04) - \[docker, digital ocean, ubuntu14.04\]
 * [Understanding the Nginx Configuration File Structure and Configuration Contexts](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts) - \[digitalocean\]
 * [NGINX PRIMER 2: FROM APACHE TO NGINX](https://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/) - \[apache, migration\]
