@@ -114,7 +114,7 @@ The result is a tool that can now be used for building and managing any Java-bas
 * [Setting the -source and -target of the Java Compiler](https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html) - \[maven-compiler, plugin\]
 
 ### <a name="mysql"></a>MySQL
-* Commands
+* MySQL commands
   * `mysql -uuser -ppassword`=`mysql --user=user --password=password` - connect the user with password to the mysql server - for security reasons it's advised to leave the password's value out (`mysql -uuser -p`)
   * `SHOW COlUMNS from TABLE` - shows columns for table; 
   * `show tables` - shows tables for db;
@@ -124,6 +124,8 @@ The result is a tool that can now be used for building and managing any Java-bas
 
 ###  <a name="nginx"></a>Nginx \[web server, proxy server, load balancer \]
 Nginx (pronounced "engine x") is a web server with a strong focus on high concurrency, performance and low memory usage. It can also act as a reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer and an HTTP cache.
+* Nginx commands
+  * `(sudo) nginx -t` - to determine where the _nginx.conf_ configuration file is located    
 * [Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html) - \[beginner, tutorial, setting up\]
 * [CommandLine - Starting, Stopping, and Restarting NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/commandline/) - \[official,commandline, start nginx, stop nginx\]
 * [Ubuntu Linux: Start / Restart / Stop Nginx Web Server](http://www.cyberciti.biz/faq/nginx-restart-ubuntu-linux-command/) - \[2011.01, @nixcraft, start nginx, stop nginx\]
