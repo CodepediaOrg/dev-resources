@@ -125,7 +125,10 @@ The result is a tool that can now be used for building and managing any Java-bas
 ###  <a name="nginx"></a>Nginx \[web server, proxy server, load balancer \]
 Nginx (pronounced "engine x") is a web server with a strong focus on high concurrency, performance and low memory usage. It can also act as a reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer and an HTTP cache.
 * Nginx commands
-  * `(sudo) nginx -t` - to determine where the _nginx.conf_ configuration file is located    
+  * `(sudo) nginx -t` - to determine where the _nginx.conf_ configuration file is located and tests its validity 
+  * `nginx -c filename` - if you don't want to use the default path of the nginx configuration file, you can pass with this command your own location
+  * `nginx -h` - reference/help of nginx command options
+  * `ps aux | grep nginx` - verify if nginx is running (will list the master and worker processes)
 * [Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html) - \[beginner, tutorial, setting up\]
 * [CommandLine - Starting, Stopping, and Restarting NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/commandline/) - \[official,commandline, start nginx, stop nginx\]
 * [Ubuntu Linux: Start / Restart / Stop Nginx Web Server](http://www.cyberciti.biz/faq/nginx-restart-ubuntu-linux-command/) - \[2011.01, @nixcraft, start nginx, stop nginx\]
