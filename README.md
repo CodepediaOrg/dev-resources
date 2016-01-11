@@ -8,6 +8,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [JWT - JSON Web Tokens](#jwt)
+* [Jekyll](#jekyll)
 * [Keycloak](#keycloak)
 * [Linux/Unix](#linux-unix)
 * [Linux Mint/Ubuntu](#mint-ubuntu)
@@ -17,6 +18,7 @@
 * [NodeJS] (#nodejs)
 * [OAuth2] (#oauth2)
 * [OpenID Connect](#openid-connect)
+* [Regex](#regex) 
 * [RxJS](#rxjs)
 * [Shell scripting](#shell-scripting)
 * [Spring](#spring)
@@ -81,6 +83,10 @@ JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and s
 https://tools.ietf.org/html/rfc7519
 * [JSON Web Token (JWT) - RFX](https://tools.ietf.org/html/rfc7519) - [rfc, ietf]
 * [Introduction to JSON Web Tokens](http://jwt.io/introduction/) - [intro, beginner, auth0]
+
+### <a name="jekyll"></a>Jekyll
+[Jekyll](http://jekyllrb.com/docs/home/) is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+
 
 ### Keycloak - \[sso, idm, REST, oauth2, openid-connect, jwt, saml2\]
 [Keycloak](http://keycloak.jboss.org/) is an integrated SSO and IDM for browser apps and RESTful web services.  Built on top of the OAuth 2.0, Open ID Connect, JSON Web Token (JWT) and SAML 2.0 specifications. 
@@ -154,6 +160,10 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 * [Welcome to OpenID Connect](http://openid.net/connect/) - [oficial, specifications]
 * [OpenID Connect FAQ and Q&As](http://openid.net/connect/faq/) - [oficial, faq]
 * [OpenID Connect Explained](http://connect2id.com/learn/openid-connect) - [intro, clear, oidc]
+
+### <a name="regex"></a>Regex
+* [Regular Expressions Tutorial](http://www.regular-expressions.info/tutorial.html) - \[comprehensive\]
+* [Regular Expressions](http://www.cs.cf.ac.uk/Dave/Internet/NEWS/regexp.html) - \[brief, with examples, NewsWatcher\]
 
 ### <a name="rxjs"></a>RxJS
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - \[reactive programming, RxJS, clear, 6k+ stars, github \]
