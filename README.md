@@ -32,6 +32,7 @@
 
 ### <a name="angularjs2"></a>AngularJS 2
 * [The Beginner’s Preemptive Guide To AngularJS 2 Alpha](http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/) \[introduction, tutorial, typescript, gulp\]
+*  [What is Angular Material?](https://material.angularjs.org) \[angularjs, web design, material design\]
 
 ### CSS
 * [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp) (basics, w3schools)
