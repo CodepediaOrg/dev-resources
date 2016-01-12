@@ -148,11 +148,12 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 * [Understanding the Nginx Configuration File Structure and Configuration Contexts](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts) - \[digitalocean\]
 * [NGINX PRIMER 2: FROM APACHE TO NGINX](https://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/) - \[apache, migration\]
 
-### NodeJS
+###  <a name="nodejs"></a>NodeJS
+[Node Version Manager](https://github.com/creationix/nvm) Simple bash script to manage multiple active node.js versions - \[github, 10k+ stars\]
  
 ### <a name="oauth2"></a>OAuth 2.0 [web-security, sso]
 [OAuth 2.0](http://oauth.net/2/) is the next evolution of the OAuth protocol which was originally created in late 2006. OAuth 2.0 focuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, mobile phones, and living room devices.
-* [OAuth 2.0 Tutorial](http://tutorials.jenkov.com/oauth2/index.html) - [tutorial, beginner, intro]
+* [OAuth 2.0 Tutorial](http://tutorials.jenkov.com/oauth2/index.html) - \[tutorial, beginner, intro\]
 * [Google Identity Platform](https://developers.google.com/identity/choose-auth) - [google identity, google api, google developers, google]
   * [Using OAuth 2.0 to Access Google APIs](https://developers.google.com/identity/protocols/OAuth2) - [google api, google developers, google]
   * [Using OAuth 2.0 for Web Server Applications](https://developers.google.com/identity/protocols/OAuth2WebServer) - [google api, google developers, google]
