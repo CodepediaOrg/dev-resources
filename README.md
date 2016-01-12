@@ -200,4 +200,6 @@ vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Uni
 
 # Contributors
 
-[<img alt="amacoder" src="https://avatars0.githubusercontent.com/u/6239971?v=3&s=117" width="117">](https://github.com/amacoder)
+[<img alt="amacoder" src="https://avatars0.githubusercontent.com/u/6239971?v=3&s=117" width="117">](https://github.com/amacoder)|
+:---: |
+[amacoder](https://github.com/amacoder)
