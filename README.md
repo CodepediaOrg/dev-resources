@@ -32,7 +32,8 @@
 
 ### <a name="angularjs2"></a>AngularJS 2
 * [The Beginner’s Preemptive Guide To AngularJS 2 Alpha](http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/) \[introduction, tutorial, typescript, gulp\]
-*  [What is Angular Material?](https://material.angularjs.org) \[angularjs, web design, material design\]
+* [Angular2 seed](https://github.com/mgechev/angular2-seed) - a seed project for Angular 2 apps. \[github\]
+* [What is Angular Material?](https://material.angularjs.org) \[angularjs, web design, material design\]
 
 ### CSS
 * [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp) (basics, w3schools)
@@ -197,3 +198,6 @@ vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Uni
 * [Install Mysql JDBC Driver on WildFly 8.2](http://giordanomaestro.blogspot.ch/2015/02/install-jdbc-driver-on-wildfly.html) - \[2015.04, wildfly 8.2.0, standalone, mysql-connector, jdbc\]
 * [WildFly 8.2.0 on Ubuntu 14.04](https://gesker.wordpress.com/2015/02/17/quick-install-wildfly-8-2-0-on-ubuntu-14-04/) - \[2015.02, wildfly 8.2.0, install, start stop as a service\]
 
+# Contributors
+
+[<img alt="amacoder" src="https://avatars0.githubusercontent.com/u/6239971?v=3&s=117" width="117">](https://github.com/amacoder)
