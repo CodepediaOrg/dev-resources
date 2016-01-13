@@ -38,8 +38,11 @@
 ### CSS
 * [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp) (basics, w3schools)
 
-###<a name="dev-utilities"></a> Dev Utilities & Power Tools
+###<a name="dev-utilities"></a>Dev Utilities & Power Tools
 Collection of utilities 
+* Mac
+  * [iTerm2](http://www.iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with OS 10.5 (Leopard) or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+  * [Alfred 2 for Mac](https://www.alfredapp.com/) - Alfred is an award-winning app for Mac OS X which boosts your efficiency with hotkeys and keywords. Search your Mac and the web effortlessly, and control your Mac using customised actions with the Powerpack.
 * [JSON Editor Online](http://www.jsoneditoronline.org/)- \[json, online, editor\]
 * [JS Bin](http://jsbin.com/help/getting-started) - JS Bin is a tool for experimenting with web languages. In particular HTML, CSS and JavaScript, but JS Bin also supports other languages too (like Markdown, Jade and Sass).
 
