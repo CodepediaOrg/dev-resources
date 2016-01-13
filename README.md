@@ -199,8 +199,3 @@ vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Uni
 * [Install Mysql JDBC Driver on WildFly 8.2](http://giordanomaestro.blogspot.ch/2015/02/install-jdbc-driver-on-wildfly.html) - \[2015.04, wildfly 8.2.0, standalone, mysql-connector, jdbc\]
 * [WildFly 8.2.0 on Ubuntu 14.04](https://gesker.wordpress.com/2015/02/17/quick-install-wildfly-8-2-0-on-ubuntu-14-04/) - \[2015.02, wildfly 8.2.0, install, start stop as a service\]
 
-# Contributors
-
-[<img alt="amacoder" src="https://avatars0.githubusercontent.com/u/6239971?v=3&s=117" width="117">](https://github.com/amacoder)|
-:---: |
-[amacoder](https://github.com/amacoder)
