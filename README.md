@@ -144,21 +144,21 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
   * `ps aux | grep nginx` - verify if nginx is running (will list the master and worker processes)
 * [Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html) - \[beginner, tutorial, setting up\]
 * [CommandLine - Starting, Stopping, and Restarting NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/commandline/) - \[official,commandline, start nginx, stop nginx\]
-* [Ubuntu Linux: Start / Restart / Stop Nginx Web Server](http://www.cyberciti.biz/faq/nginx-restart-ubuntu-linux-command/) - \[2011.01, @nixcraft, start nginx, stop nginx\]
+* [Ubuntu Linux: Start / Restart / Stop Nginx Web Server](http://www.cyberciti.biz/faq/nginx-restart-ubuntu-linux-command/) - \[2011.01, @nixcraft, nginx start, nginx stop\]
 * [Tuning NGINX for Performance](https://www.nginx.com/blog/tuning-nginx/) - \[2014.10, official, setting up\]
 * [Serving static content](https://www.nginx.com/resources/admin-guide/serving-static-content/) - \[official, admin guide, static content\]
-* [Compression and decompression](https://www.nginx.com/resources/admin-guide/compression-and-decompression/) - \[official, admin guide, tuning, optimization\]
-* [Pitfalls and Common Mistakes](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/) - \[official, static content, Read all of this! ALL OF IT!\]
-* [How To Run Nginx in a Docker Container on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-run-nginx-in-a-docker-container-on-ubuntu-14-04) - \[docker, digital ocean, ubuntu14.04\]
+* [Compression and decompression](https://www.nginx.com/resources/admin-guide/compression-and-decompression/) - \[official, nginx gzip, nginx admin guide, nginx tuning, nginx optimization\]
+* [Pitfalls and Common Mistakes](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/) - \[official, nginx mistakes, static content, Read all of this! ALL OF IT!\]
+* [How To Run Nginx in a Docker Container on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-run-nginx-in-a-docker-container-on-ubuntu-14-04) - \[nginx docker, digital ocean, ubuntu14.04\]
 * [Understanding the Nginx Configuration File Structure and Configuration Contexts](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts) - \[digitalocean\]
 * [NGINX PRIMER 2: FROM APACHE TO NGINX](https://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/) - \[apache, migration\]
 
 ###  <a name="nodejs"></a>NodeJS
-[Node Version Manager](https://github.com/creationix/nvm) Simple bash script to manage multiple active node.js versions - \[github, 10k+ stars\]
+[Node Version Manager](https://github.com/creationix/nvm) Simple bash script to manage multiple active node.js versions - \[github, 10k+ stars, nodejs nvm\]
  
 ### <a name="oauth2"></a>OAuth 2.0 [web-security, sso]
 [OAuth 2.0](http://oauth.net/2/) is the next evolution of the OAuth protocol which was originally created in late 2006. OAuth 2.0 focuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, mobile phones, and living room devices.
-* [OAuth 2.0 Tutorial](http://tutorials.jenkov.com/oauth2/index.html) - \[tutorial, beginner, intro\]
+* [OAuth 2.0 Tutorial](http://tutorials.jenkov.com/oauth2/index.html) - \[oauth2 tutorial, oauth2 beginner, intro\]
 * [Google Identity Platform](https://developers.google.com/identity/choose-auth) - [google identity, google api, google developers, google]
   * [Using OAuth 2.0 to Access Google APIs](https://developers.google.com/identity/protocols/OAuth2) - [google api, google developers, google]
   * [Using OAuth 2.0 for Web Server Applications](https://developers.google.com/identity/protocols/OAuth2WebServer) - [google api, google developers, google]
@@ -192,8 +192,9 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 ### <a name="vi"></a>vi/vim
 vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Unix operating system. The portable subset of the behavior of vi and programs based on it, and the ex editor language supported within these programs, is described by (and thus standardized by) the Single Unix Specification and POSIX.
 * [130+ ESSENTIAL VIM COMMANDS](http://www.catswhocode.com/blog/130-essential-vim-commands) - \[2013.12, @catswhocode\]
-* [Copy, cut and paste](http://vim.wikia.com/wiki/Copy,_cut_and_paste) - \[2002.13, wikia\]
-* [Moving around](http://vim.wikia.com/wiki/Moving_around) - \[2001.01, wikia\]
+* [Copy, cut and paste](http://vim.wikia.com/wiki/Copy,_cut_and_paste) - \[2002.13, wikia, vim copy, vim cut, vim paste\]
+* [Moving around](http://vim.wikia.com/wiki/Moving_around) - \[2001.01, wikia, vim moving, vim navigation\]
+* [vi/vim delete commands and examples](http://alvinalexander.com/linux/vi-vim-delete-line-commands-to-end) - \[2016.06, vim delete\]
 
 ### <a name="web-design"></a>Web design
 * [Material Design](https://www.google.com/design/spec/material-design/introduction.html) is a concept which explains how apps for Android and web apps should look and how the user interface should work. It defines rules for animation, style, layout, components, patterns and usability etc.
@@ -202,5 +203,5 @@ vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Uni
 [WildFly](http://wildfly.org/), formerly known as JBoss AS, or simply JBoss, is an application server authored by JBoss, now developed by Red Hat. WildFly is written in Java, and implements the Java Platform, Enterprise Edition (Java EE) specification.
 * [Enable Wildfly remote access](http://bgasparotto.com/enable-wildfly-remote-access/) - \[2015.04, wildfly 8.2.0, standalone\]
 * [Install Mysql JDBC Driver on WildFly 8.2](http://giordanomaestro.blogspot.ch/2015/02/install-jdbc-driver-on-wildfly.html) - \[2015.04, wildfly 8.2.0, standalone, mysql-connector, jdbc\]
-* [WildFly 8.2.0 on Ubuntu 14.04](https://gesker.wordpress.com/2015/02/17/quick-install-wildfly-8-2-0-on-ubuntu-14-04/) - \[2015.02, wildfly 8.2.0, install, start stop as a service\]
+* [WildFly 8.2.0 on Ubuntu 14.04](https://gesker.wordpress.com/2015/02/17/quick-install-wildfly-8-2-0-on-ubuntu-14-04/) - \[2015.02, wildfly 8.2.0, wildfly install, wildfly start, wildfly stop, wildfly service\]
 
