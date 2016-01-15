@@ -129,11 +129,17 @@ The result is a tool that can now be used for building and managing any Java-bas
 ### <a name="mysql"></a>MySQL
 * MySQL commands
   * `mysql -uuser -ppassword`=`mysql --user=user --password=password` - connect the user with password to the mysql server - for security reasons it's advised to leave the password's value out (`mysql -uuser -p`)
+  * ` CREATE DATABASE podcast_db; USE podcast_db;` - create database and use database - [documentation](http://dev.mysql.com/doc/refman/5.7/en/creating-database.html)
+  * `CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';` - create _newuser_ identifiey by _password_
+  * `GRANT ALL PRIVILEGES ON databaseName.* TO 'newuser'@'localhost'` - grant all privileges fro the _newuser_ on the database _databaseName_ - [documentation](ev.mysql.com/doc/en/grant.html)
   * `SHOW COlUMNS from TABLE` - shows columns for table; 
-  * `show tables` - shows tables for db;
+  * `SHOW TABLES` - shows tables for db;
+  * `SELECT User FROM mysql.user` - show mysql users; 
+  * `mysqldump _databaseName_ -u _user_ -p -h 127.0.0.1 --single-transaction > /target_path/2016-01-15.sql` -  export the _databaseName_ to _2016-01-15.sql_ in a single transcation - [documentation](http://dev.mysql.com/doc/refman/5.7/en/mysqldump.html) \[mysql export\]
+  * `mysql --user=username --password database < dumpfile.sql` - [documentation](http://dev.mysql.com/doc/refman/5.7/en/mysqldump.html) \[mysql import\]
 * [MySQL Documentation](https://dev.mysql.com/doc/) - [official, documentation]
-* [How To Create a New User and Grant Permissions in MySQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql) - (command-line, digitalocean)
-* [Optimizing MySQL server settings](http://www.codingpedia.org/ama/optimizing-mysql-server-settings/) - (mysql-5.5, codingpedia)
+* [How To Create a New User and Grant Permissions in MySQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql) - (mysql commandline, digitalocean)
+* [Optimizing MySQL server settings](http://www.codingpedia.org/ama/optimizing-mysql-server-settings/) - (mysql-5.5, mysql optimization, codingpedia)
 
 ###  <a name="nginx"></a>Nginx \[web server, proxy server, load balancer \]
 Nginx (pronounced "engine x") is a web server with a strong focus on high concurrency, performance and low memory usage. It can also act as a reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer and an HTTP cache.
