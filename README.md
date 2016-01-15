@@ -21,6 +21,7 @@
 * [Python](#python)
 * [Regex](#regex) 
 * [RxJS](#rxjs)
+* [scp](#scp)
 * [Shell scripting](#shell-scripting)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
@@ -194,7 +195,11 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 * [Reactive Programming - What is RxJS?](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs) - \[video, egghead.io, observable, @andrestaltz\]
 * [What Is RxJS?](https://egghead.io/lessons/rxjs-what-is-rxjs) - \[video, egghead.io, observable, async, @BenLesh\]
 * [RxJS Observables vs Promises](https://egghead.io/lessons/rxjs-rxjs-observables-vs-promises) - \[video, egghead.io, observable, promise, @BenLesh\]
- 
+
+### <a name="scp"></a>scp - secure copy
+[scp](https://en.wikipedia.org/wiki/Secure_copy) allows files to be copied to, from, or between different hosts. It uses ssh for data transfer and provides the same authentication and same level of security as [ssh](https://en.wikipedia.org/wiki/Secure_Shell)
+* [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php) - \[scp example\] 
+
 ### <a name="shell-scripting"></a>Shell scripting
 * [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/index.html) - \[2002, beginner, handbook\]
 
@@ -206,7 +211,7 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 
 ### <a name="tomcat"></a>Tomcat
 [Apache Tomcat™](http://tomcat.apache.org/) is an open source software implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. The Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket specifications are developed under the Java Community Process.
-* [How To Install Apache Tomcat 8 on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-14-04) - \[2015.06, tomcat8 installation, tomcat ubuntu,  tomcat digitalocean\]
+* [How To Install Apache Tomcat 8 on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-14-04) - \[2015.06, tomcat install, tomcat ubuntu,  tomcat digitalocean\]
 
 ### <a name="vi"></a>vi/vim
 vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Unix operating system. The portable subset of the behavior of vi and programs based on it, and the ex editor language supported within these programs, is described by (and thus standardized by) the Single Unix Specification and POSIX.
