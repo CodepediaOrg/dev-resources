@@ -179,9 +179,10 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 
 ### <a name="python"></a>Python
 [Python](https://www.python.org/doc/essays/blurb/) is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.
-* [Python documentation](https://docs.python.org) - \[2011.02, python documentation, python official\]
+* [Python documentation](https://docs.python.org) - \[python documentation, python official\]
 * [Introduction to Python Programming in Ubuntu Linux](http://blog.pluralsight.com/introduction-to-python-programming-in-ubuntu-linux) - \[2011.02, python beginner, python ubuntu, python introduction\]
-* 
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - \[python book, python beginner\]
+* [How to install Python 3.4 on Ubuntu?](http://askubuntu.com/questions/449555/how-to-install-python-3-4-on-ubuntu) - \[python ubuntu, python3 ubuntu, python3-install, askubuntu\]
 
 ### <a name="regex"></a>Regex
 * [Regular Expressions Tutorial](http://www.regular-expressions.info/tutorial.html) - \[comprehensive\]
