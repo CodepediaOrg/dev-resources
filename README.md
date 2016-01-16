@@ -219,6 +219,7 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 ### <a name="tomcat"></a>Tomcat
 [Apache Tomcat™](http://tomcat.apache.org/) is an open source software implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. The Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket specifications are developed under the Java Community Process.
 * [How To Install Apache Tomcat 8 on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-14-04) - \[2015.06, tomcat install, tomcat ubuntu,  tomcat digitalocean\]
+* [Tomcat JDBC Connection Pool configuration for production and development](http://www.codingpedia.org/ama/tomcat-jdbc-connection-pool-configuration-for-production-and-development/) - \[ 2013.08, tomcat jdbc, tomcat performance,  tomcat codingpedia\]
 
 ### <a name="vi"></a>vi/vim
 vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Unix operating system. The portable subset of the behavior of vi and programs based on it, and the ex editor language supported within these programs, is described by (and thus standardized by) the Single Unix Specification and POSIX.
