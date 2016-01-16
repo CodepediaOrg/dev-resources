@@ -4,6 +4,7 @@
 * [CSS](#css)
 * [Dev Utilities & Power Tools](#dev-utilities)
 * [Docker](#docker)
+* [Git](#git)
 * [IntelliJ](#intellij)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -53,9 +54,15 @@ Collection of utilities
 
 ### Docker
 [Docker](https://www.docker.com/what-docker) allows you to package an application with all of its dependencies into a standardized unit for software development.
-* [Docker user guide](https://docs.docker.com/engine/userguide/) - [official, beginner]
+* [Docker user guide](https://docs.docker.com/engine/userguide/) - \[official, docker beginner\]
 * [How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04) - [digitalocean, docker-compose]
 * [Docker MySQL Persistence]() - \[2015.03, mysql, data volumes\]
+
+### Git
+[Git](https://en.wikipedia.org/wiki/Git_(software)) is a widely-used source code management system for software development. It is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.
+* Git commands
+ * `git stash` - takes the dirty state of your working directory — that is, your modified tracked files and staged changes — and saves it on a stack of unfinished changes that you can reapply at any time. Link - [https://git-scm.com/book/en/v1/Git-Tools-Stashing](https://git-scm.com/book/en/v1/Git-Tools-Stashing)
+* [Git book](https://git-scm.com/book/en/v2) - \[ git beginner, git advanced, git videos, git introduction\]
 
 ###<a name="intellij"></a> IntelliJ
 * [Is IntelliJ IDEA shining through Eclipse?](http://www.codingpedia.org/ama/is-intellij-idea-shining-through-eclipse/) - (eclipse, ide, keyboard shortcuts)
