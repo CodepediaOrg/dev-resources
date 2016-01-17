@@ -228,6 +228,7 @@ vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Uni
 * [130+ ESSENTIAL VIM COMMANDS](http://www.catswhocode.com/blog/130-essential-vim-commands) - \[2013.12, @catswhocode\]
 * [Copy, cut and paste](http://vim.wikia.com/wiki/Copy,_cut_and_paste) - \[2002.13, wikia, vim copy, vim cut, vim paste\]
 * [Moving around](http://vim.wikia.com/wiki/Moving_around) - \[2001.01, wikia, vim moving, vim navigation\]
+* [Search and replace](http://vim.wikia.com/wiki/Search_and_replace) - \[2001.01, wikia, vim replace, vim search\]
 * [vi/vim delete commands and examples](http://alvinalexander.com/linux/vi-vim-delete-line-commands-to-end) - \[2016.06, vim delete\]
 
 ### <a name="web-design"></a>Web design
