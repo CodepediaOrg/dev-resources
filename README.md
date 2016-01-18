@@ -117,6 +117,7 @@ https://tools.ietf.org/html/rfc7519
   * `namei -om /path/to/check` - easily display all the permissions on a path
   * `mv /home/user/oldname /home/user/newname` - rename directory in linux \[linux rename directory\]
   * `ln -s path-to-actual-folder name-of-link ` - create symbolic link to folder; `ls -ld name-of-link` confirm the link; `rm name-of-link OR unlink name-of-link` remove the link; - \[linux symbolic link\]
+  * `touch "foo.backup.$(date +%F_%R)"` - add time extension to file name, good for backup \[linux backup\]
   * [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/) - \[bash, ss64\]  
   * [Finding a File Containing a Particular Text String In Linux Server](http://www.cyberciti.biz/faq/howto-search-find-file-for-text-string/) - \[grep, egrep, search, find] 
   * [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - \[nixCraft\]
