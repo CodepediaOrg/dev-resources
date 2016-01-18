@@ -23,6 +23,7 @@
 * [Regex](#regex) 
 * [RxJS](#rxjs)
 * [scp](#scp)
+* [Scrum](#scrum)
 * [Shell scripting](#shell-scripting)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
@@ -209,6 +210,10 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 ### <a name="scp"></a>scp - secure copy
 [scp](https://en.wikipedia.org/wiki/Secure_copy) allows files to be copied to, from, or between different hosts. It uses ssh for data transfer and provides the same authentication and same level of security as [ssh](https://en.wikipedia.org/wiki/Secure_Shell)
 * [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php) - \[scp example\] 
+
+### <a name="scrum"></a>Scrum
+Scrum is a management framework for incremental product development using one or more cross-functional, self-organizing teams of about seven people each.
+* [Scrum Reference Card](http://scrumreferencecard.com/) - \[short, concise, by Michael James\]
 
 ### <a name="shell-scripting"></a>Shell scripting
 * [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/index.html) - \[2002, beginner, handbook\]
