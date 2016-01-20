@@ -226,6 +226,7 @@ Scrum is a management framework for incremental product development using one or
 
 ### <a name="tomcat"></a>Tomcat
 [Apache Tomcat™](http://tomcat.apache.org/) is an open source software implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. The Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket specifications are developed under the Java Community Process.
+* [Tomcat running configuration](http://tomcat.apache.org/tomcat-8.0-doc/RUNNING.txt) - \[tomcat official, tomcat 8, tomcat environment variables, tomcat setenv\]
 * [How To Install Apache Tomcat 8 on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-14-04) - \[2015.06, tomcat install, tomcat ubuntu,  tomcat digitalocean\]
 * [Tomcat JDBC Connection Pool configuration for production and development](http://www.codingpedia.org/ama/tomcat-jdbc-connection-pool-configuration-for-production-and-development/) - \[ 2013.08, tomcat jdbc, tomcat performance,  tomcat codingpedia\]
 
