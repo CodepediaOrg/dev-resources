@@ -8,6 +8,7 @@
 * [IntelliJ](#intellij)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [JBoss](#jboss)
 * [JWT - JSON Web Tokens](#jwt)
 * [Jekyll](#jekyll)
 * [Keycloak](#keycloak)
@@ -96,6 +97,9 @@ The JavaScript Guide shows you how to use JavaScript and gives an overview of th
 * [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) - [mdn, javascript-core]
 * [Debugging JavaScript in Chrome](https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints/) - [chrome, devtools, google developers ]
 
+### <a name="jboss"></a>Jboss
+* [Module descriptors](https://docs.jboss.org/author/display/MODULES/Module+descriptors) - [jboss oficial docs, jboss docs, jboss module descriptors, jboss modules]
+* 
 ### <a name="jwt"></a>JWT - JSON Web Tokens - [web-security, json]
 JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with HMAC algorithm) or a public/private key pair using RSA.
 https://tools.ietf.org/html/rfc7519
