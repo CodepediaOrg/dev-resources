@@ -65,6 +65,7 @@ Collection of utilities
 * Git commands
  * `git stash` - takes the dirty state of your working directory — that is, your modified tracked files and staged changes — and saves it on a stack of unfinished changes that you can reapply at any time. Link - [https://git-scm.com/book/en/v1/Git-Tools-Stashing](https://git-scm.com/book/en/v1/Git-Tools-Stashing)
 * [Git book](https://git-scm.com/book/en/v2) - \[ git beginner, git advanced, git videos, git introduction\]
+* [.gitignore.io](https://www.gitignore.io/) - \[ .gitignore files \]
 
 ###<a name="intellij"></a> IntelliJ
 * [Is IntelliJ IDEA shining through Eclipse?](http://www.codingpedia.org/ama/is-intellij-idea-shining-through-eclipse/) - (eclipse, ide, keyboard shortcuts)
