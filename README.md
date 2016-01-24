@@ -4,6 +4,7 @@
 * [CSS](#css)
 * [Dev Utilities & Power Tools](#dev-utilities)
 * [Docker](#docker)
+* [DNS](#dns)
 * [Git](#git)
 * [IntelliJ](#intellij)
 * [Java](#java)
@@ -53,6 +54,10 @@ Collection of utilities
 * [JS Bin](http://jsbin.com/help/getting-started) - JS Bin is a tool for experimenting with web languages. In particular HTML, CSS and JavaScript, but JS Bin also supports other languages too (like Markdown, Jade and Sass).
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - With PageSpeed Insights you can identify ways to make your site faster and more mobile-friendly. \[google, web performance, website tuning\]
 
+###<a name="dns"></a> DNS
+Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They maintain a directory of domain names and translate them to Internet Protocol (IP) addresses. This is necessary because, although domain names are easy for people to remember, computers or machines, access websites based on IP addresses.
+* [What Is DNS? | GoDaddy](https://www.youtube.com/watch?v=jS-535UqCCk) - \[ dns introduction video, dns video \]
+* [An Introduction to Managing DNS](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-managing-dns) - \[ dns digitalocean, dns terminology, dns how to \]
 
 ### Docker
 [Docker](https://www.docker.com/what-docker) allows you to package an application with all of its dependencies into a standardized unit for software development.
