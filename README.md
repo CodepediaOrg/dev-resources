@@ -181,6 +181,7 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 * [Pitfalls and Common Mistakes](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/) - \[official, nginx mistakes, static content, Read all of this! ALL OF IT!\]
 * [How To Run Nginx in a Docker Container on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-run-nginx-in-a-docker-container-on-ubuntu-14-04) - \[nginx docker, digital ocean, ubuntu14.04\]
 * [Understanding the Nginx Configuration File Structure and Configuration Contexts](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts) - \[digitalocean\]
+* [How to Configure Nginx](https://www.linode.com/docs/websites/nginx/how-to-configure-nginx) - \[nginx basic configuration explained, nginx linode, nginx configuration\]
 * [NGINX PRIMER 2: FROM APACHE TO NGINX](https://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/) - \[apache, migration\]
 * [How To Create an SSL Certificate on Nginx for Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-create-an-ssl-certificate-on-nginx-for-ubuntu-14-04) - \[2014.05, nginx ssl self signed, nginx digitalocean, generate ssl certificate\]
 * [How To Secure Nginx with Let's Encrypt on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04) - \[2015.12, nginx ssl letsencrypt, nginx digitalocean\]
