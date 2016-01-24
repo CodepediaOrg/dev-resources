@@ -246,6 +246,9 @@ Scrum is a management framework for incremental product development using one or
 
 ### <a name="vi"></a>vi/vim
 vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Unix operating system. The portable subset of the behavior of vi and programs based on it, and the ex editor language supported within these programs, is described by (and thus standardized by) the Single Unix Specification and POSIX.
+* Commands
+ *  `:set number` - show line numbers in vi/vim - \[vim show line number\]
+ *  `8G` or `8gg` - moves the cursor to line number 8, first command beginning of the line, second to end of the line  - \[vim go to line number\]
 * [130+ ESSENTIAL VIM COMMANDS](http://www.catswhocode.com/blog/130-essential-vim-commands) - \[2013.12, @catswhocode\]
 * [Copy, cut and paste](http://vim.wikia.com/wiki/Copy,_cut_and_paste) - \[2002.13, wikia, vim copy, vim cut, vim paste\]
 * [Moving around](http://vim.wikia.com/wiki/Moving_around) - \[2001.01, wikia, vim moving, vim navigation\]
