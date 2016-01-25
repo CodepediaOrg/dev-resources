@@ -231,6 +231,7 @@ Scrum is a management framework for incremental product development using one or
 
 ### <a name="shell-scripting"></a>Shell scripting
 * [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/index.html) - \[2002, beginner, handbook\]
+* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/index.html) - \[ 2014.03, shell scripting comprehensive, tldp.org \]
 
 ### Spring
 * [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/) - [official, htmlsingle]
