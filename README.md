@@ -151,8 +151,11 @@ The result is a tool that can now be used for building and managing any Java-bas
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/index.html) - \[sonatype, reference book\]
 * [Setting the -source and -target of the Java Compiler](https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html) - \[maven-compiler, plugin\]
 * Maven plugins
- * [Apache Maven Assembly Plugin ](http://maven.apache.org/plugins/maven-assembly-plugin/) - the Assembly Plugin for Maven is primarily intended to allow users to aggregate the project output along with its dependencies, modules, site documentation, and other files into a single distributable archive.
- * 
+ * [Apache Maven Assembly Plugin](http://maven.apache.org/plugins/maven-assembly-plugin/) - the Assembly Plugin for Maven is primarily intended to allow users to aggregate the project output along with its dependencies, modules, site documentation, and other files into a single distributable archive.
+ * [Apache Maven Clean Plugin](https://maven.apache.org/plugins/maven-clean-plugin/) - the Clean Plugin is used when you want to remove files generated at build-time in a project's directory.
+ * [Apache Maven Dependency Plugin](https://maven.apache.org/plugins/maven-dependency-plugin/) - The dependency plugin provides the capability to manipulate artifacts. It can copy and/or unpack artifacts from local or remote repositories to a specified location. \[ maven zip, maven unzip \]
+ * [Exec Maven Plugin](http://www.mojohaus.org/exec-maven-plugin/) - The plugin provides 2 goals to help execute system and Java programs. \[ maven execute shell scripts, maven execute java programs \]
+ * [Properties Maven Plugin](http://maven.apache.org/plugins/maven-assembly-plugin/) - the Properties Maven Plugin is here to make life a little easier when dealing with properties. It provides goals to read properties from files and URLs and write properties to files, and also to set system properties. It's main use-case is loading properties from files or URLs instead of declaring them in pom.xml, something that comes in handy when dealing with different environments.
 
 ### <a name="mysql"></a>MySQL
 * MySQL commands
