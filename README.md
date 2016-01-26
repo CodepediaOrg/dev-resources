@@ -53,6 +53,7 @@ Collection of utilities
 * [JSON Editor Online](http://www.jsoneditoronline.org/) - \[json, online, editor\]
 * [JS Bin](http://jsbin.com/help/getting-started) - JS Bin is a tool for experimenting with web languages. In particular HTML, CSS and JavaScript, but JS Bin also supports other languages too (like Markdown, Jade and Sass).
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - With PageSpeed Insights you can identify ways to make your site faster and more mobile-friendly. \[google, web performance, website tuning\]
+* [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects. It provides two- and three-way comparison of both files and directories, and has support for many popular version control systems. \[ git mergetool \]
 
 ###<a name="dns"></a> DNS
 Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They maintain a directory of domain names and translate them to Internet Protocol (IP) addresses. This is necessary because, although domain names are easy for people to remember, computers or machines, access websites based on IP addresses.
@@ -149,6 +150,9 @@ https://tools.ietf.org/html/rfc7519
 The result is a tool that can now be used for building and managing any Java-based project. We hope that we have created something that will make the day-to-day work of Java developers easier and generally help with the comprehension of any Java-based project.
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/index.html) - \[sonatype, reference book\]
 * [Setting the -source and -target of the Java Compiler](https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html) - \[maven-compiler, plugin\]
+* Maven plugins
+ * [Apache Maven Assembly Plugin ](http://maven.apache.org/plugins/maven-assembly-plugin/) - the Assembly Plugin for Maven is primarily intended to allow users to aggregate the project output along with its dependencies, modules, site documentation, and other files into a single distributable archive.
+ * 
 
 ### <a name="mysql"></a>MySQL
 * MySQL commands
