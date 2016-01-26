@@ -150,6 +150,7 @@ https://tools.ietf.org/html/rfc7519
 The result is a tool that can now be used for building and managing any Java-based project. We hope that we have created something that will make the day-to-day work of Java developers easier and generally help with the comprehension of any Java-based project.
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/index.html) - \[sonatype, reference book\]
 * [Setting the -source and -target of the Java Compiler](https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html) - \[maven-compiler, plugin\]
+* [Introduction to Build Profiles](http://maven.apache.org/guides/introduction/introduction-to-profiles.html) - \[ maven profiles introduction, maven apache doc\]
 * Maven plugins
  * [Apache Maven Assembly Plugin](http://maven.apache.org/plugins/maven-assembly-plugin/) - the Assembly Plugin for Maven is primarily intended to allow users to aggregate the project output along with its dependencies, modules, site documentation, and other files into a single distributable archive.
  * [Apache Maven Clean Plugin](https://maven.apache.org/plugins/maven-clean-plugin/) - the Clean Plugin is used when you want to remove files generated at build-time in a project's directory.
