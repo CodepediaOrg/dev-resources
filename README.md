@@ -196,6 +196,7 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 * [How To Create an SSL Certificate on Nginx for Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-create-an-ssl-certificate-on-nginx-for-ubuntu-14-04) - \[2014.05, nginx ssl self signed, nginx digitalocean, generate ssl certificate\]
 * [How To Secure Nginx with Let's Encrypt on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04) - \[2015.12, nginx ssl letsencrypt, nginx digitalocean\]
 * [How To Redirect HTTP to HTTPS in Nginx](https://christiaanconover.com/blog/how-to-redirect-http-to-https-in-nginx) - \[ nginx redirect http to https \]
+* [Nginx Serving Static Content and Java Application Server](http://developer-should-know.tumblr.com/post/112512171397/nginx-serving-static-content-and-java-application) - \[ nginx jboss, nginx wildfly \]
 
 ###  <a name="nodejs"></a>NodeJS
 * [Node Version Manager](https://github.com/creationix/nvm) Simple bash script to manage multiple active node.js versions - \[github, 10k+ stars, nodejs nvm\]
