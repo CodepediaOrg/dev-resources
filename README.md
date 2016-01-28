@@ -23,6 +23,7 @@
 * [OpenID Connect](#openid-connect)
 * [Python](#python)
 * [Regex](#regex) 
+* [REST](#rest) 
 * [RxJS](#rxjs)
 * [scp](#scp)
 * [Scrum](#scrum)
@@ -227,6 +228,11 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 * [Regular Expressions Tutorial](http://www.regular-expressions.info/tutorial.html) - \[comprehensive\]
 * [Regular Expressions](http://www.cs.cf.ac.uk/Dave/Internet/NEWS/regexp.html) - \[brief, with examples, NewsWatcher\]
 
+### <a name="rest"></a>REST
+* [Best practices for API versioning?](http://stackoverflow.com/questions/389169/best-practices-for-api-versioning) - \[ rest api versioning, rest stackoverflow \]
+* [swagger.io](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs) - \[video, egghead.io, observable, @andrestaltz\]
+* [What Is RxJS?](http://swagger.io/getting-started/) - the goal of [Swagger™](http://swagger.io/getting-started/) is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. - \[ rest api design \]
+ 
 ### <a name="rxjs"></a>RxJS
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - \[reactive programming, RxJS, clear, 6k+ stars, github \]
 * [Reactive Programming - What is RxJS?](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs) - \[video, egghead.io, observable, @andrestaltz\]
