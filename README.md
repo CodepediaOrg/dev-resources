@@ -27,6 +27,7 @@
 * [RxJS](#rxjs)
 * [scp](#scp)
 * [Scrum](#scrum)
+* [SEO](#seo)
 * [Shell scripting](#shell-scripting)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
@@ -245,6 +246,10 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 ### <a name="scrum"></a>Scrum
 Scrum is a management framework for incremental product development using one or more cross-functional, self-organizing teams of about seven people each.
 * [Scrum Reference Card](http://scrumreferencecard.com/) - \[short, concise, by Michael James\]
+
+### <a name="seo"></a>SEO - Search Engine Optimization
+* [SEO advice: url canonicalization](https://www.mattcutts.com/blog/seo-advice-url-canonicalization/) - \[ 2006.01, @mattcutts  google\]
+* [www. is not deprecated](http://www.yes-www.org/) - \[ yes www, redirect to www\]
 
 ### <a name="shell-scripting"></a>Shell scripting
 * [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/index.html) - \[2002, beginner, handbook\]
