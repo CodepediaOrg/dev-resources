@@ -192,6 +192,7 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 * [Compression and decompression](https://www.nginx.com/resources/admin-guide/compression-and-decompression/) - \[ nginx official, nginx gzip, nginx admin guide, nginx tuning, nginx optimization\]
 * [Pitfalls and Common Mistakes](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/) - \[ nginx official, nginx mistakes, static content, Read all of this! ALL OF IT!\]
 * [How nginx processes a request](http://nginx.org/en/docs/http/request_processing.html) - \[ nginx official, nginx functionality, nginx core \]
+* [Nginx reverse proxy](https://www.nginx.com/resources/admin-guide/reverse-proxy/) - \[ nginx official, nginx admin guide, nginx reverse proxy setup \]
 * [How To Run Nginx in a Docker Container on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-run-nginx-in-a-docker-container-on-ubuntu-14-04) - \[nginx docker, nginx digital ocean, nginx ubuntu14.04\]
 * [Understanding the Nginx Configuration File Structure and Configuration Contexts](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts) - \[digitalocean\]
 * [How to Configure Nginx](https://www.linode.com/docs/websites/nginx/how-to-configure-nginx) - \[nginx basic configuration explained, nginx linode, nginx configuration\]
