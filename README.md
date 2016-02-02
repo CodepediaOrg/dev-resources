@@ -138,6 +138,8 @@ https://tools.ietf.org/html/rfc7519
   * [List the contents of a tar or tar.gz file](http://www.cyberciti.biz/faq/list-the-contents-of-a-tar-or-targz-file/) - \[nixCraft\]  
   * [Linux: Find Out Which Process Is Listening Upon a Port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
   * [nohup Execute Commands After You Exit From a Shell Prompt](http://www.cyberciti.biz/tips/nohup-execute-commands-after-you-exit-from-a-shell-prompt.html) - \[nixCraft, ssh, nohup\]
+  * [20 Command Line Tools to Monitor Linux Performance](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/) - \[ linux monitoring\]
+  * [12 TOP Command Examples in Linux](http://www.tecmint.com/12-top-command-examples-in-linux/) - \[ linux monitoring, linux top \]
 * Kernel
   * [Linux Signals Fundamentals](http://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/)
   
