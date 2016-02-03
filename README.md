@@ -191,6 +191,8 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 * [Ubuntu Linux: Start / Restart / Stop Nginx Web Server](http://www.cyberciti.biz/faq/nginx-restart-ubuntu-linux-command/) - \[2011.01, @nixcraft, nginx start, nginx stop\]
 * [Tuning NGINX for Performance](https://www.nginx.com/blog/tuning-nginx/) - \[2014.10, official, setting up\]
 * [Serving static content](https://www.nginx.com/resources/admin-guide/serving-static-content/) - \[nginx official, nginx admin guide, nginx static content\]
+* [Nginx ssl termination](https://www.nginx.com/resources/admin-guide/nginx-ssl-termination/) - \[nginx official, nginx admin guide, nginx ssl termination, nginx ssl config\]
+* [SSL Offloading, Encryption, and Certificates with NGINX](https://www.nginx.com/blog/nginx-ssl/) - \[nginx blog, nginx ssl termination, nginx ssl config\]
 * [Compression and decompression](https://www.nginx.com/resources/admin-guide/compression-and-decompression/) - \[ nginx official, nginx gzip, nginx admin guide, nginx tuning, nginx optimization\]
 * [Pitfalls and Common Mistakes](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/) - \[ nginx official, nginx mistakes, static content, Read all of this! ALL OF IT!\]
 * [How nginx processes a request](http://nginx.org/en/docs/http/request_processing.html) - \[ nginx official, nginx functionality, nginx core \]
