@@ -85,6 +85,8 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
    * [Difference between SPI and API](http://stackoverflow.com/questions/2954372/difference-between-spi-and-api) - [stackoverflow, api, spi]
 * jpa
     * [Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence) - [wikibooks, oneToMany, ManyToMany]  
+    * [JPA: persisting vs. merging entites](http://spitballer.blogspot.ch/2010/04/jpa-persisting-vs-merging-entites.html) - [jpa persist, jpa merge, rightfully explained]  
+    * [JPA EntityManager: Why use persist() over merge()?](http://stackoverflow.com/questions/1069992/jpa-entitymanager-why-use-persist-over-merge) - [jpa persist, jpa merge, rightfully explained, stackoverflow] 
     * [JPA and Enums via @Enumerated](http://tomee.apache.org/examples-trunk/jpa-enumerated/README.html) - [apache, tomee]
 * java8
   * [java 8 the missing tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial)
