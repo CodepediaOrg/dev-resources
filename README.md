@@ -238,8 +238,12 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 * [Regular Expressions](http://www.cs.cf.ac.uk/Dave/Internet/NEWS/regexp.html) - \[brief, with examples, NewsWatcher\]
 
 ### <a name="rest"></a>REST
-* [Best practices for API versioning?](http://stackoverflow.com/questions/389169/best-practices-for-api-versioning) - \[ rest api versioning, rest stackoverflow \]
+* [Best practices for API versioning?](http://stackoverflow.com/questions/389169/best-practices-for-api-versioning) - \[ rest 
+api versioning, rest stackoverflow \]
+* [REST assured](https://github.com/jayway/rest-assured) - \[ rest assured, rest test api, rest java test api \]
+ * [REST assured usage](https://github.com/jayway/rest-assured/wiki/Usage) - \[ rest assured examples\]* 
 * [swagger.io](http://swagger.io/getting-started/) - the goal of [Swagger™](http://swagger.io/getting-started/) is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. - \[ rest api design \]
+* [REST Easy](http://resteasy.jboss.org/) - RESTEasy is a JBoss project that provides various frameworks to help you build RESTful Web Services and RESTful Java applications. It is a fully certified and portable implementation of the JAX-RS specification. JAX-RS is a new JCP specification that provides a Java API for RESTful Web Services over the HTTP protocol. - \[ rest JAX-RS implementation, rest jboss \]
  
 ### <a name="rxjs"></a>RxJS
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - \[reactive programming, RxJS, clear, 6k+ stars, github \]
