@@ -43,7 +43,6 @@
 ### <a name="angularjs2"></a>AngularJS 2
 * [The Beginner’s Preemptive Guide To AngularJS 2 Alpha](http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/) \[introduction, tutorial, typescript, gulp\]
 * [Angular2 seed](https://github.com/mgechev/angular2-seed) - a seed project for Angular 2 apps. \[github\]
-* [What is Angular Material?](https://material.angularjs.org) \[angularjs, web design, material design\]
 
 ### <a name="Arquillian"></a>Arquillian
 * [http://arquillian.org/](http://arquillian.org/) - an Innovative Testing Platform for the JVM.
