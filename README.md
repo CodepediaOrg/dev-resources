@@ -1,6 +1,7 @@
 # dev-bookmarks
 * [AngularJS](#angularjs)
 * [AngularJS 2](#angularjs2)
+* [Arquillian](#Arquillian)
 * [CSS](#css)
 * [Dev Utilities & Power Tools](#dev-utilities)
 * [Docker](#docker)
@@ -44,6 +45,11 @@
 * [Angular2 seed](https://github.com/mgechev/angular2-seed) - a seed project for Angular 2 apps. \[github\]
 * [What is Angular Material?](https://material.angularjs.org) \[angularjs, web design, material design\]
 
+### <a name="Arquillian"></a>Arquillian
+* [http://arquillian.org/](http://arquillian.org/) - an Innovative Testing Platform for the JVM.
+* [Arquillian Transaction Extension: Transaction Rollback for your Java EE Integration Tests](http://www.hascode.com/2013/06/arquillian-transaction-extension-transaction-rollback-for-your-java-ee-integration-tests/)
+* [What is Angular Material?](https://material.angularjs.org) \[angularjs, web design, material design\]
+* 
 ### CSS
 * [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp) (basics, w3schools)
 
@@ -56,6 +62,7 @@ Collection of utilities
 * [JS Bin](http://jsbin.com/help/getting-started) - JS Bin is a tool for experimenting with web languages. In particular HTML, CSS and JavaScript, but JS Bin also supports other languages too (like Markdown, Jade and Sass).
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - With PageSpeed Insights you can identify ways to make your site faster and more mobile-friendly. \[google, web performance, website tuning\]
 * [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects. It provides two- and three-way comparison of both files and directories, and has support for many popular version control systems. \[ git mergetool \]
+* [regex101](https://regex101.com/) - \[ regex debugger, regex highlighting, regex error detection \] 
 
 ###<a name="dns"></a> DNS
 Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They maintain a directory of domain names and translate them to Internet Protocol (IP) addresses. This is necessary because, although domain names are easy for people to remember, computers or machines, access websites based on IP addresses.
@@ -73,6 +80,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * Git commands
  * `git stash` - takes the dirty state of your working directory — that is, your modified tracked files and staged changes — and saves it on a stack of unfinished changes that you can reapply at any time. Link - [https://git-scm.com/book/en/v1/Git-Tools-Stashing](https://git-scm.com/book/en/v1/Git-Tools-Stashing)
 * [Git book](https://git-scm.com/book/en/v2) - \[ git beginner, git advanced, git videos, git introduction\]
+ * [Git stash](https://git-scm.com/docs/git-stash)
 * [.gitignore.io](https://www.gitignore.io/) - \[ .gitignore files \]
 
 ###<a name="intellij"></a> IntelliJ
@@ -244,6 +252,8 @@ api versioning, rest stackoverflow \]
  * [REST assured usage](https://github.com/jayway/rest-assured/wiki/Usage) - \[ rest assured examples\]* 
 * [swagger.io](http://swagger.io/getting-started/) - the goal of [Swagger™](http://swagger.io/getting-started/) is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. - \[ rest api design \]
 * [REST Easy](http://resteasy.jboss.org/) - RESTEasy is a JBoss project that provides various frameworks to help you build RESTful Web Services and RESTful Java applications. It is a fully certified and portable implementation of the JAX-RS specification. JAX-RS is a new JCP specification that provides a Java API for RESTful Web Services over the HTTP protocol. - \[ rest JAX-RS implementation, rest jboss \]
+* [Tutorial – REST API design and implementation in Java with Jersey and Spring](http://resteasy.jboss.org/) - RESTEasy is a JBoss project that provides various frameworks to help you build RESTful Web Services and RESTful Java applications. It is a fully certified and portable implementation of the JAX-RS specification. JAX-RS is a new JCP specification that provides a Java API for RESTful Web Services over the HTTP protocol. - \[ rest JAX-RS implementation, rest jboss \]
+* [Jersey ](RESTful Web Services in Java) - Jersey RESTful Web Services framework is open source, production quality, framework for developing RESTful Web Services in Java that provides support for JAX-RS APIs and serves as a JAX-RS (JSR 311 & JSR 339) Reference Implementation. - \[ rest JAX-RS implementation, rest jersey \]
  
 ### <a name="rxjs"></a>RxJS
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - \[reactive programming, RxJS, clear, 6k+ stars, github \]
