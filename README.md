@@ -49,7 +49,7 @@
 * [http://arquillian.org/](http://arquillian.org/) - an Innovative Testing Platform for the JVM.
 * [Arquillian Transaction Extension: Transaction Rollback for your Java EE Integration Tests](http://www.hascode.com/2013/06/arquillian-transaction-extension-transaction-rollback-for-your-java-ee-integration-tests/)
 * [What is Angular Material?](https://material.angularjs.org) \[angularjs, web design, material design\]
-* 
+
 ### CSS
 * [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp) (basics, w3schools)
 
