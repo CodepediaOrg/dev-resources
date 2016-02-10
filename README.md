@@ -47,7 +47,7 @@
 ### <a name="Arquillian"></a>Arquillian
 * [http://arquillian.org/](http://arquillian.org/) - an Innovative Testing Platform for the JVM.
 * [Arquillian Transaction Extension: Transaction Rollback for your Java EE Integration Tests](http://www.hascode.com/2013/06/arquillian-transaction-extension-transaction-rollback-for-your-java-ee-integration-tests/)
-* [What is Angular Material?](https://material.angularjs.org) \[angularjs, web design, material design\]
+* [TESTING KEYCLOAK INTEGRATION WITH ARQUILLIAN](http://www.first8.nl/blog/testing-keycloak-integration-with-arquillian/) \[arquillian keycloak\]
 
 ### CSS
 * [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp) (basics, w3schools)
@@ -131,6 +131,8 @@ https://tools.ietf.org/html/rfc7519
 ### Keycloak - \[sso, idm, REST, oauth2, openid-connect, jwt, saml2\]
 [Keycloak](http://keycloak.jboss.org/) is an integrated SSO and IDM for browser apps and RESTful web services.  Built on top of the OAuth 2.0, Open ID Connect, JSON Web Token (JWT) and SAML 2.0 specifications. 
 * [Documentation](http://keycloak.jboss.org/docs) - \[user-guide, video-tutorials, basics\]
+* [TESTING KEYCLOAK INTEGRATION WITH ARQUILLIAN](http://www.first8.nl/blog/testing-keycloak-integration-with-arquillian/) \[ keycloak arquillian \]
+* [SECURING JAX-RS: KEYCLOAK, CDI AND EJB CONFUSION](http://www.first8.nl/blog/securing-jax-rs-keycloak-cdi-and-ejb-confusion/) \[ keycloak jax-rs \]
 
 ### <a name="linux-unix"></a>Linux/Unix
 * bash
