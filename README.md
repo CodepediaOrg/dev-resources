@@ -74,18 +74,20 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04) - [digitalocean, docker-compose]
 * [Docker MySQL Persistence]() - \[2015.03, mysql, data volumes\]
 
-### Git
+###<a name="git"></a>Git
 [Git](https://en.wikipedia.org/wiki/Git_(software)) is a widely-used source code management system for software development. It is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.
 * Git commands
  * `git stash` - takes the dirty state of your working directory — that is, your modified tracked files and staged changes — and saves it on a stack of unfinished changes that you can reapply at any time. Link - [https://git-scm.com/book/en/v1/Git-Tools-Stashing](https://git-scm.com/book/en/v1/Git-Tools-Stashing)
+ * `git checkout -b feature_branch_name` - create new local branch - \[ git branch, git new branch, git new local branch\]
+ * `git push -u origin feature_branch_name` - push new branch remote - \[ git push branch remote\]
 * [Git book](https://git-scm.com/book/en/v2) - \[ git beginner, git advanced, git videos, git introduction\]
  * [Git stash](https://git-scm.com/docs/git-stash)
 * [.gitignore.io](https://www.gitignore.io/) - \[ .gitignore files \]
 
-###<a name="intellij"></a> IntelliJ
+###<a name="intellij"></a>IntelliJ
 * [Is IntelliJ IDEA shining through Eclipse?](http://www.codingpedia.org/ama/is-intellij-idea-shining-through-eclipse/) - (eclipse, ide, keyboard shortcuts)
 
-### Java
+###<a name="java"></a>Java
 * core
    * [Trail: Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html) - [java-core, tutorial, oracle ]
    * [Java Exception Handling](http://tutorials.jenkov.com/java-exception-handling/index.html) - \[2014.06, @jjenkov\]
@@ -105,7 +107,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * profilers
   * [Top 5 Java Profilers Revealed: Real world data with VisualVM, JProfiler, Java Mission Control, YourKit and Custom tooling.](http://zeroturnaround.com/rebellabs/top-5-java-profilers-revealed-real-world-data-with-visualvm-jprofiler-java-mission-control-yourkit-and-custom-tooling/)
 
-### JavaScript
+###<a name="javascript"></a>JavaScript
 * books
   * [Eloquent JavaScript](http://eloquentjavascript.net/)  by [Marijn Haverbeke](http://marijnhaverbeke.nl/) - \[@marijnjh, beginner, basics, and more\]
 * [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
