@@ -17,6 +17,7 @@
 * [Linux/Unix](#linux-unix)
 * [Linux Mint/Ubuntu](#mint-ubuntu)
 * [Maven](#maven)
+* [MyBatis](#mybatis)
 * [MySQL](#mysql)
 * [Nginx](#nginx)
 * [NodeJS] (#nodejs)
@@ -176,6 +177,10 @@ The result is a tool that can now be used for building and managing any Java-bas
  * [Properties Maven Plugin](http://maven.apache.org/plugins/maven-assembly-plugin/) - the Properties Maven Plugin is here to make life a little easier when dealing with properties. It provides goals to read properties from files and URLs and write properties to files, and also to set system properties. It's main use-case is loading properties from files or URLs instead of declaring them in pom.xml, something that comes in handy when dealing with different environments.
  * [JBoss Maven Plugin](https://docs.jboss.org/jbossas/7/plugins/maven/latest/) - The jboss-as-maven-plugin is used to deploy, redeploy, undeploy or run your application. You can also deploy or undeploy artifacts, such as JDBC drivers, and add or remove resources. There is also the ability to execute CLI commands - \[ maven jboss \]
  * [WildFly Maven Plugin](https://docs.jboss.org/wildfly/plugins/maven/latest/) - The jboss-as-maven-plugin is used to deploy, redeploy, undeploy or run your application. You can also deploy or undeploy artifacts, such as JDBC drivers, and add or remove resources. There is also the ability to execute CLI commands - \[ maven jboss, maven wildfly \]
+
+### <a name="mysql"></a>MyBatis
+[MyBatis](http://www.mybatis.org/mybatis-3/) is a SQL mapper framework for Java; MyBatis is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings. MyBatis eliminates almost all of the JDBC code and manual setting of parameters and retrieval of results. MyBatis can use simple XML or Annotations for configuration and map primitives, Map interfaces and Java POJOs (Plain Old Java Objects) to database records.
+* [MyBatis Migrations](http://www.mybatis.org/migrations/index.html)-a command line DataBase migrations tool
 
 ### <a name="mysql"></a>MySQL
 * MySQL commands
