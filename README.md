@@ -76,6 +76,10 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04) - [digitalocean, docker-compose]
 * [Docker MySQL Persistence]() - \[2015.03, mysql, data volumes\]
 
+###<a name="functional-programming"></a>Functional programming
+* [What is functional programming](http://blog.jenkster.com/2015/12/what-is-functional-programming.html) - \[ functional programming introduction, side effects, side causes, pure functions \]
+* [Don’t Be Scared Of Functional Programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/) - \[ functional programming introduction, immutability, stateless, javascript map reduce, javascript examples \]
+
 ###<a name="git"></a>Git
 [Git](https://en.wikipedia.org/wiki/Git_(software)) is a widely-used source code management system for software development. It is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.
 * Git commands
