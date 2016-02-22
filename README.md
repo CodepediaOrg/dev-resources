@@ -6,6 +6,7 @@
 * [Dev Utilities & Power Tools](#dev-utilities)
 * [Docker](#docker)
 * [DNS](#dns)
+* [Functional programming](#functional-programming)
 * [Git](#git)
 * [IntelliJ](#intellij)
 * [Java](#java)
