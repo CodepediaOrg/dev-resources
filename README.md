@@ -186,6 +186,7 @@ The result is a tool that can now be used for building and managing any Java-bas
 ### <a name="mysql"></a>MyBatis
 [MyBatis](http://www.mybatis.org/mybatis-3/) is a SQL mapper framework for Java; MyBatis is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings. MyBatis eliminates almost all of the JDBC code and manual setting of parameters and retrieval of results. MyBatis can use simple XML or Annotations for configuration and map primitives, Map interfaces and Java POJOs (Plain Old Java Objects) to database records.
 * [MyBatis Migrations](http://www.mybatis.org/migrations/index.html)-a command line DataBase migrations tool
+ * [myBatis Migrations and Oracle RDBMS](http://ba6.us/?q=mybatis_migration_tool_with_oracle) - \[ setup example for oracle \]
 
 ### <a name="mysql"></a>MySQL
 * MySQL commands
