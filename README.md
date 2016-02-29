@@ -30,6 +30,7 @@
 * [RxJS](#rxjs)
 * [scp](#scp)
 * [Scrum](#scrum)
+* [Security](#security)
 * [SEO](#seo)
 * [Shell scripting](#shell-scripting)
 * [Spring](#spring)
@@ -107,6 +108,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * java8
   * [java 8 the missing tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial)
   * [JDK 8 & Lambdas, Streams et Collectors ](http://www.infoq.com/fr/presentations/jdk8-lambdas-streams-collectors?displayableIdp=google&idp=2&emailMatch=adrianmatei@gmail.com#downloadPdf) - [video, french]
+  * [JDK 8 will use TLS 1.2 as default](https://blogs.oracle.com/java-platform-group/entry/java_8_will_use_tls)
 * javamail
    * [Javamail API FAQ](http://www.oracle.com/technetwork/java/javamail/faq/index.html) - [oracle] 
 * keystore
@@ -284,6 +286,9 @@ api versioning, rest stackoverflow \]
 ### <a name="scrum"></a>Scrum
 Scrum is a management framework for incremental product development using one or more cross-functional, self-organizing teams of about seven people each.
 * [Scrum Reference Card](http://scrumreferencecard.com/) - \[short, concise, by Michael James\]
+
+### <a name="security"></a>Security
+* [Keeping your secrets](http://www.infoq.com/articles/keeping-your-secrets) - \[ security tls, security ssl, security java tls, security public key\]
 
 ### <a name="seo"></a>SEO - Search Engine Optimization
 * [SEO advice: url canonicalization](https://www.mattcutts.com/blog/seo-advice-url-canonicalization/) - \[ 2006.01, @mattcutts  google\]
