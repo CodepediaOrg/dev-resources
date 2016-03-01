@@ -113,6 +113,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
    * [Javamail API FAQ](http://www.oracle.com/technetwork/java/javamail/faq/index.html) - [oracle] 
 * keystore
   * [The Most Common Java Keytool Keystore Commands](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html) - \[keytool commands, keystore\]
+  * [Import the Certificate as a Trusted Certificate](https://docs.oracle.com/javase/tutorial/security/toolfilex/rstep1.html) - \[ keytool import certificate \]
 * profilers
   * [Top 5 Java Profilers Revealed: Real world data with VisualVM, JProfiler, Java Mission Control, YourKit and Custom tooling.](http://zeroturnaround.com/rebellabs/top-5-java-profilers-revealed-real-world-data-with-visualvm-jprofiler-java-mission-control-yourkit-and-custom-tooling/)
 
