@@ -235,6 +235,7 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 * [How To Redirect HTTP to HTTPS in Nginx](https://christiaanconover.com/blog/how-to-redirect-http-to-https-in-nginx) - \[ nginx redirect http to https \]
 * [Nginx Serving Static Content and Java Application Server](http://developer-should-know.tumblr.com/post/112512171397/nginx-serving-static-content-and-java-application) - \[ nginx jboss, nginx wildfly \]
 * [Installing Nginx in Mac OS X Mountain Lion With Homebrew](http://learnaholic.me/2012/10/10/installing-nginx-in-mac-os-x-mountain-lion/) - \[ nginx install mac, nginx installation mac \]
+* [Optimizing HTTPS on Nginx](https://bjornjohansen.no/optimizing-https-nginx) - \[ nginx https optimization \]
 
 ###  <a name="nodejs"></a>NodeJS
 * [Node Version Manager](https://github.com/creationix/nvm) Simple bash script to manage multiple active node.js versions - \[github, 10k+ stars, nodejs nvm\]
