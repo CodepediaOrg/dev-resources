@@ -24,6 +24,7 @@
 * [NodeJS] (#nodejs)
 * [OAuth2] (#oauth2)
 * [OpenID Connect](#openid-connect)
+* [OracleDB] (#oracledb)
 * [Python](#python)
 * [Regex](#regex) 
 * [REST](#rest) 
@@ -255,6 +256,10 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 * [Welcome to OpenID Connect](http://openid.net/connect/) - [oficial, specifications]
 * [OpenID Connect FAQ and Q&As](http://openid.net/connect/faq/) - [oficial, faq]
 * [OpenID Connect Explained](http://connect2id.com/learn/openid-connect) - [intro, clear, oidc]
+
+### <a name="oracledb"></a>OracleDB 
+* [ORACLE/PLSQL: ALTER TABLE STATEMENT](http://www.techonthenet.com/oracle/tables/alter_table.php) - [oracle alter table statement]
+
 
 ### <a name="python"></a>Python
 [Python](https://www.python.org/doc/essays/blurb/) is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.
