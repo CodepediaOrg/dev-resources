@@ -327,7 +327,7 @@ vi /ˈviːˈaɪ/ is a screen-oriented text editor originally created for the Uni
  *  `:8` and `8G` or `8gg` or  - moves the cursor to line number 8, first command beginning of the line, second to end of the line  - \[vim go to line number, vim navigation\]
  *  `0` - go to beginning of the line & `$` - go to end of the line \[vim navigation\]
  *  `gg` or `:1` or `1G` or `1gg` - go to beginng of file \[vim navigation\]
- *  `G` - go to end of file \[vim navigation\]
+ *  `G` or `:$` - go to end of file \[vim navigation\]
 * [130+ ESSENTIAL VIM COMMANDS](http://www.catswhocode.com/blog/130-essential-vim-commands) - \[2013.12, @catswhocode\]
 * [Copy, cut and paste](http://vim.wikia.com/wiki/Copy,_cut_and_paste) - \[2002.13, wikia, vim copy, vim cut, vim paste\]
 * [Moving around](http://vim.wikia.com/wiki/Moving_around) - \[2001.01, wikia, vim moving, vim navigation\]
