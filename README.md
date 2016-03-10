@@ -89,7 +89,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
  * `git stash` - takes the dirty state of your working directory — that is, your modified tracked files and staged changes — and saves it on a stack of unfinished changes that you can reapply at any time. Link - [https://git-scm.com/book/en/v1/Git-Tools-Stashing](https://git-scm.com/book/en/v1/Git-Tools-Stashing)
  * `git checkout -b feature_branch_name` - create new local branch - \[ git branch, git new branch, git new local branch\]
  * `git push -u origin feature_branch_name` - push new branch remote - \[ git push branch remote\]
- * `[git log](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-log/)` - the git log command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes.
+ * `git log` - the [git log](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-log/) command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes.
 * [Git atlassion - become a git guru](https://www.atlassian.com/git/tutorials/) - \[git tutorials, git atlassian\]
 * [Git book](https://git-scm.com/book/en/v2) - \[ git beginner, git advanced, git videos, git introduction\]
  * [Git stash](https://git-scm.com/docs/git-stash)
