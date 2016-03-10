@@ -92,6 +92,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [Git book](https://git-scm.com/book/en/v2) - \[ git beginner, git advanced, git videos, git introduction\]
  * [Git stash](https://git-scm.com/docs/git-stash)
 * [.gitignore.io](https://www.gitignore.io/) - \[ .gitignore files \]
+* [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) - \[ the git flow, gitflow, [gitflow-github](https://github.com/nvie/gitflow) \]
 
 ###<a name="intellij"></a>IntelliJ
 * [Is IntelliJ IDEA shining through Eclipse?](http://www.codingpedia.org/ama/is-intellij-idea-shining-through-eclipse/) - (eclipse, ide, keyboard shortcuts)
