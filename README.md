@@ -262,6 +262,8 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 * [OpenID Connect Explained](http://connect2id.com/learn/openid-connect) - [intro, clear, oidc]
 
 ### <a name="oracledb"></a>OracleDB 
+* Commands
+ *  `describe table_name` - \[oracle show columsn from table\]
 * [ORACLE/PLSQL: ALTER TABLE STATEMENT](http://www.techonthenet.com/oracle/tables/alter_table.php) - [oracle alter table statement]
 
 
