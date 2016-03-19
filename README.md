@@ -14,6 +14,7 @@
 * [JBoss](#jboss)
 * [JWT - JSON Web Tokens](#jwt)
 * [Jekyll](#jekyll)
+* [jQuery](#jquery)
 * [Keycloak](#keycloak)
 * [Linux/Unix](#linux-unix)
 * [Linux Mint/Ubuntu](#mint-ubuntu)
@@ -127,6 +128,8 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 ###<a name="javascript"></a>JavaScript
 * books
   * [Eloquent JavaScript](http://eloquentjavascript.net/)  by [Marijn Haverbeke](http://marijnhaverbeke.nl/) - \[@marijnjh, beginner, basics, and more\]
+* basics
+  * [Javascript Logical Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators) - \[ javascript and, javascript or, javascript negation\] 
 * [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 The JavaScript Guide shows you how to use JavaScript and gives an overview of the language. If you want to get started with JavaScript or programming in general, consult the articles in the learning area. If you need exhaustive information about a language feature, have a look at the JavaScript reference. - \[mdn, mozilla, basics\]
 * [JavaScript for Cats](http://jsforcats.com/) - \[beginner, programmer, callbacks, @denormalize\]
@@ -145,7 +148,13 @@ https://tools.ietf.org/html/rfc7519
 
 ### <a name="jekyll"></a>Jekyll
 [Jekyll](http://jekyllrb.com/docs/home/) is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+* [Get the value in an input text box](http://stackoverflow.com/questions/4088467/get-the-value-in-an-input-text-box) - [jquery select input value, jquery get input value]
 
+### <a name="jquery"></a>jquery
+[jQuery](https://jquery.com/)  is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+* `var bla = $('#txt_name').val();` - [jquery select input value, jquery get input value]
+* `$('#txt_name').val('bla');` - [jquery set input value] 
+* `var selected_option = $('#mySelectBox option:selected');` - [jquery get selected option] 
 
 ### Keycloak - \[sso, idm, REST, oauth2, openid-connect, jwt, saml2\]
 [Keycloak](http://keycloak.jboss.org/) is an integrated SSO and IDM for browser apps and RESTful web services.  Built on top of the OAuth 2.0, Open ID Connect, JSON Web Token (JWT) and SAML 2.0 specifications. 
