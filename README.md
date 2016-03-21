@@ -94,6 +94,8 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
  * `git log` - the [git log](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-log/) command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes.
  * `git fetch -p OR git fetch --prune` - [Automatic prune with git fetch or pull](http://stackoverflow.com/questions/18308535/automatic-prune-with-git-fetch-or-pull) [git fetch remote branches, git fetch update branches]
  * `git reset --hard` - discard all local cahnges; maybe consider doing a `git stash` before  [git revert, git discard changes, git reset]
+ * `git checkout tags/<tag_name>` - check out tag; you can list them with the command above   [git checkout tag, git tag checkout]
+ * `git tag OR git tag -l` - display git tags for repository; `-l` to pass a search pattern to filter out tags   [git tags list, git tag list, git show tags]
 * [Git atlassion - become a git guru](https://www.atlassian.com/git/tutorials/) - \[git tutorials, git atlassian\]
 * [Git book](https://git-scm.com/book/en/v2) - \[ git beginner, git advanced, git videos, git introduction\]
  * [Git stash](https://git-scm.com/docs/git-stash)
