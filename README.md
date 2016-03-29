@@ -109,6 +109,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 ###<a name="java"></a>Java
 * core
    * [Trail: Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html) - [java-core, tutorial, oracle ]
+   * [Java Tutorial](http://tutorials.jenkov.com/java/index.html) - \[2015.02, @jjenkov, java enums, java annotations, java inheritance, java beginner, java lambda expressions \]
    * [Java Exception Handling](http://tutorials.jenkov.com/java-exception-handling/index.html) - \[2014.06, @jjenkov\]
    * [Java Annotations and Java Reflection - Tutorial](http://www.vogella.com/tutorials/JavaAnnotations/article.html) - \[2014.12, vogella\]
    * [Difference between SPI and API](http://stackoverflow.com/questions/2954372/difference-between-spi-and-api) - [stackoverflow, api, spi]
