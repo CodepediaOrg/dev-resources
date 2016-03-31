@@ -19,6 +19,7 @@
 * [Linux/Unix](#linux-unix)
 * [Linux Mint/Ubuntu](#mint-ubuntu)
 * [Maven](#maven)
+* [Mockito](#mockito)
 * [MyBatis](#mybatis)
 * [MySQL](#mysql)
 * [Nginx](#nginx)
@@ -210,7 +211,13 @@ The result is a tool that can now be used for building and managing any Java-bas
  * [JBoss Maven Plugin](https://docs.jboss.org/jbossas/7/plugins/maven/latest/) - The jboss-as-maven-plugin is used to deploy, redeploy, undeploy or run your application. You can also deploy or undeploy artifacts, such as JDBC drivers, and add or remove resources. There is also the ability to execute CLI commands - \[ maven jboss \]
  * [WildFly Maven Plugin](https://docs.jboss.org/wildfly/plugins/maven/latest/) - The jboss-as-maven-plugin is used to deploy, redeploy, undeploy or run your application. You can also deploy or undeploy artifacts, such as JDBC drivers, and add or remove resources. There is also the ability to execute CLI commands - \[ maven jboss, maven wildfly \]
 
-### <a name="mysql"></a>MyBatis
+### <a name="mockito"></a>Mockito
+[Mockito](http://site.mockito.org/) is a mocking framework for unit tests in Java
+* [An Easy Way to Test Abstract Classes with Mockito](https://www.rallydev.com/blog/engineering/easy-way-test-abstract-classes-mockito) - [mockito abstract classes testing]
+* [Mockito Verify Cookbook](http://www.baeldung.com/mockito-verify) 
+* 
+
+### <a name="mybatis"></a>MyBatis
 [MyBatis](http://www.mybatis.org/mybatis-3/) is a SQL mapper framework for Java; MyBatis is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings. MyBatis eliminates almost all of the JDBC code and manual setting of parameters and retrieval of results. MyBatis can use simple XML or Annotations for configuration and map primitives, Map interfaces and Java POJOs (Plain Old Java Objects) to database records.
 * [MyBatis Migrations](http://www.mybatis.org/migrations/index.html)-a command line DataBase migrations tool
  * [myBatis Migrations and Oracle RDBMS](http://ba6.us/?q=mybatis_migration_tool_with_oracle) - \[ setup example for oracle \]
