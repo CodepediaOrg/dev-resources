@@ -214,8 +214,9 @@ The result is a tool that can now be used for building and managing any Java-bas
 ### <a name="mockito"></a>Mockito
 [Mockito](http://site.mockito.org/) is a mocking framework for unit tests in Java
 * [An Easy Way to Test Abstract Classes with Mockito](https://www.rallydev.com/blog/engineering/easy-way-test-abstract-classes-mockito) - [mockito abstract classes testing]
+* [Mockito annotations](http://www.baeldung.com/mockito-annotations) 
 * [Mockito Verify Cookbook](http://www.baeldung.com/mockito-verify) 
-* 
+* [An example of behavior verification + argument capture with Mockito (on TestNG)](https://gist.github.com/searls/864224) - [mockito catpture, mockito captor, mockito gist]
 
 ### <a name="mybatis"></a>MyBatis
 [MyBatis](http://www.mybatis.org/mybatis-3/) is a SQL mapper framework for Java; MyBatis is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings. MyBatis eliminates almost all of the JDBC code and manual setting of parameters and retrieval of results. MyBatis can use simple XML or Annotations for configuration and map primitives, Map interfaces and Java POJOs (Plain Old Java Objects) to database records.
