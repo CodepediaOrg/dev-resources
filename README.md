@@ -90,23 +90,23 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 [Git](https://en.wikipedia.org/wiki/Git_(software)) is a widely-used source code management system for software development. It is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.
 * Git commands
  * `git stash` - takes the dirty state of your working directory — that is, your modified tracked files and staged changes — and saves it on a stack of unfinished changes that you can reapply at any time. Link - [https://git-scm.com/book/en/v1/Git-Tools-Stashing](https://git-scm.com/book/en/v1/Git-Tools-Stashing)
-* `git stash pop` - takes a stashed change, removes it from the “stash stack”, and applies it to your current working tree; beware - [‘git stash pop’ considered harmful](https://codingkilledthecat.wordpress.com/2012/04/27/git-stash-pop-considered-harmful/)
-* `git checkout -b feature_branch_name` - create new local branch - \[ git branch, git new branch, git new local branch\]
-* `git push -u origin feature_branch_name` - push new branch remote - \[ git push branch remote\]
-* `git branch -d feature_branch_name` - deletes local branch - \[ git delete branch locally, git remove branch local\]
-* `git push origin --delete feature_branch_name` - deletes branch remote - \[ git delete branch remote, git remove branch remote\]
-* `git log` - the [git log](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-log/) command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes.
- * `git log --pretty=oneline` - shows checksum with git commit message 
-* `git fetch -p OR git fetch --prune` - [Automatic prune with git fetch or pull](http://stackoverflow.com/questions/18308535/automatic-prune-with-git-fetch-or-pull) [git fetch remote branches, git fetch update branches]
-* `git tag` - lists the available tags in Git   [git tag]
-* `git tag OR git tag -l` - display git tags for repository; `-l` to pass a search pattern to filter out tags   [git tags list, git tag list, git show tags]
- * `git tag -l "v.1.8.5"` - search for tags with a particular system `v1.8.5, v1.8.5-rc0, v1.8.5.1 etc` [git tag]
- * `git tag -a v1.4 -m "my version 1.4"` - create annotated tag; annotated tags are stored as full objects in git database; they are checksummed, contain the tagger name, eamil and date - `git show v1.4` [git tag, git show tag data]
- * `git tag v1.4-lw` - commit a lightweight tag. This is basically the commit checksum stored in a file – no other information is kept. To create a lightweight tag, don’t supply the -a, -s, or -m option - `git show v1.4-lw` [git tag, git show tag data]
- * `git push origin v1.5"` - by default, the git push command doesn’t transfer tags to remote servers. You will have to explicitly push tags to a shared server after you have created them. This process is just like sharing remote branches – you can run git push origin [tagname] [git push tag remote]
- * `git push origin --tags` -  you have a lot of tags that you want to push up at once, you can also use the --tags option to the git push command. This will transfer all of your tags to the remote server that are not already there. [git push tags remote]
-* `git reset --hard` - discard all local cahnges; maybe consider doing a `git stash` before  [git revert, git discard changes, git reset]
-* `git checkout tags/<tag_name>` - check out tag; you can list them with the command above   [git checkout tag, git tag checkout]
+ * `git stash pop` - takes a stashed change, removes it from the “stash stack”, and applies it to your current working tree; beware - [‘git stash pop’ considered harmful](https://codingkilledthecat.wordpress.com/2012/04/27/git-stash-pop-considered-harmful/)
+ * `git checkout -b feature_branch_name` - create new local branch - \[ git branch, git new branch, git new local branch\]
+ * `git push -u origin feature_branch_name` - push new branch remote - \[ git push branch remote\]
+ * `git branch -d feature_branch_name` - deletes local branch - \[ git delete branch locally, git remove branch local\]
+ * `git push origin --delete feature_branch_name` - deletes branch remote - \[ git delete branch remote, git remove branch remote\]
+ * `git log` - the [git log](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-log/) command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes.
+  * `git log --pretty=oneline` - shows checksum with git commit message 
+ * `git fetch -p OR git fetch --prune` - [Automatic prune with git fetch or pull](http://stackoverflow.com/questions/18308535/automatic-prune-with-git-fetch-or-pull) [git fetch remote branches, git fetch update branches]
+ * `git tag` - lists the available tags in Git   [git tag]
+ * `git tag OR git tag -l` - display git tags for repository; `-l` to pass a search pattern to filter out tags   [git tags list, git tag list, git show tags]
+  * `git tag -l "v.1.8.5"` - search for tags with a particular system `v1.8.5, v1.8.5-rc0, v1.8.5.1 etc` [git tag]
+  * `git tag -a v1.4 -m "my version 1.4"` - create annotated tag; annotated tags are stored as full objects in git database; they are checksummed, contain the tagger name, eamil and date - `git show v1.4` [git tag, git show tag data]
+  * `git tag v1.4-lw` - commit a lightweight tag. This is basically the commit checksum stored in a file – no other information is kept. To create a lightweight tag, don’t supply the -a, -s, or -m option - `git show v1.4-lw` [git tag, git show tag data]
+  * `git push origin v1.5"` - by default, the git push command doesn’t transfer tags to remote servers. You will have to explicitly push tags to a shared server after you have created them. This process is just like sharing remote branches – you can run git push origin [tagname] [git push tag remote]
+  * `git push origin --tags` -  you have a lot of tags that you want to push up at once, you can also use the --tags option to the git push command. This will transfer all of your tags to the remote server that are not already there. [git push tags remote]
+ * `git reset --hard` - discard all local cahnges; maybe consider doing a `git stash` before  [git revert, git discard changes, git reset]
+ * `git checkout tags/<tag_name>` - check out tag; you can list them with the command above   [git checkout tag, git tag checkout]
 * [Git atlassion - become a git guru](https://www.atlassian.com/git/tutorials/) - \[git tutorials, git atlassian\]
 * [Git book](https://git-scm.com/book/en/v2) - \[ git beginner, git advanced, git videos, git introduction\]
  * [Git stash](https://git-scm.com/docs/git-stash)
