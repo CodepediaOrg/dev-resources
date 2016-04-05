@@ -49,6 +49,7 @@
 ### <a name="angularjs2"></a>AngularJS 2
 * [The Beginner’s Preemptive Guide To AngularJS 2 Alpha](http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/) \[introduction, tutorial, typescript, gulp\]
 * [Angular2 seed](https://github.com/mgechev/angular2-seed) - a seed project for Angular 2 apps. \[github\]
+* [The core components of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2) - [angular2 core components]
 
 ### <a name="Arquillian"></a>Arquillian
 * [http://arquillian.org/](http://arquillian.org/) - an Innovative Testing Platform for the JVM.
