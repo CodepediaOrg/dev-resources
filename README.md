@@ -9,6 +9,7 @@
 * [Functional programming](#functional-programming)
 * [Git](#git)git
 * [IntelliJ](#intellij)
+* [Html 5](#html5)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [JBoss](#jboss)
@@ -114,6 +115,9 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [.gitignore.io](https://www.gitignore.io/) - \[ .gitignore files \]
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) - \[ the git flow, gitflow, [gitflow-github](https://github.com/nvie/gitflow) \]
 
+###<a name="html5"></a>Html 5
+* [Using HTML5 audio and video](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) - (html5 audio, html5 video, html5 mdn)
+* 
 ###<a name="intellij"></a>IntelliJ
 * [Is IntelliJ IDEA shining through Eclipse?](http://www.codingpedia.org/ama/is-intellij-idea-shining-through-eclipse/) - (eclipse, ide, keyboard shortcuts)
 
