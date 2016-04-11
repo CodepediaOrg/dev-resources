@@ -286,6 +286,8 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 ###  <a name="nodejs"></a>NodeJS
 * [Node Version Manager](https://github.com/creationix/nvm) Simple bash script to manage multiple active node.js versions - \[github, 10k+ stars, nodejs nvm\]
 * [Frontend maven plugin](https://github.com/eirslett/frontend-maven-plugin) This plugin downloads/installs Node and NPM locally for your project, runs NPM install, and then any combination of Bower, Grunt, Gulp, Jspm, Karma, or Webpack. It's supposed to work on Windows, OS X and Linux. - \[github, node maven plugin\]
+* [Using MySQL with Node.js & the node-mysql JavaScript Client](http://www.sitepoint.com/using-node-mysql-javascript-client/) - [node mysql module, node mysql tutorial]
+ * [Node mysql module github](https://github.com/felixge/node-mysql) - [node mysql module, node mysql tutorial]
  
 ### <a name="oauth2"></a>OAuth 2.0 [web-security, sso]
 [OAuth 2.0](http://oauth.net/2/) is the next evolution of the OAuth protocol which was originally created in late 2006. OAuth 2.0 focuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, mobile phones, and living room devices.
