@@ -148,7 +148,8 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 
 ###<a name="javascript"></a>JavaScript
 * books
-  * [Eloquent JavaScript](http://eloquentjavascript.net/)  by [Marijn Haverbeke](http://marijnhaverbeke.nl/) - \[@marijnjh, beginner, basics, and more\]
+  * [Eloquent JavaScript](http://eloquentjavascript.net/)  by [Marijn Haverbeke](http://marijnhaverbeke.nl/) - \[@marijnjh, beginner, basics, and more, book\]
+  * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - [ecmascript6, book, js intermediate, js advanced]
 * basics
   * [Javascript Logical Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators) - \[ javascript and, javascript or, javascript negation\] 
 * [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
