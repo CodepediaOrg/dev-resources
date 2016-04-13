@@ -295,7 +295,7 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 * [Google Identity Platform](https://developers.google.com/identity/choose-auth) - [google identity, google api, google developers, google]
   * [Using OAuth 2.0 to Access Google APIs](https://developers.google.com/identity/protocols/OAuth2) - [google api, google developers, google]
   * [Using OAuth 2.0 for Web Server Applications](https://developers.google.com/identity/protocols/OAuth2WebServer) - [google api, google developers, google]
-
+* [Securing Sign-in on Mobile: Best Practices for Native Apps](https://www.youtube.com/watch?v=ppeU8yeI_ks) - [oauth2 sso native apps video]
 
 ### <a name="openid-connect"></a>OpenID Connect [web-security, sso, json, identity-provision, oauth2, jwt]
 OpenID Connect is an interoperable authentication protocol based on the OAuth 2.0 family of specifications. It uses straightforward REST/JSON message flows with a design goal of “making simple things simple and complicated things possible”. It’s uniquely easy for developers to integrate, compared to any preceding Identity protocol.
