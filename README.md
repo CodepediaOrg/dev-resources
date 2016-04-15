@@ -121,6 +121,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 
 ###<a name="intellij"></a>IntelliJ
 * [Is IntelliJ IDEA shining through Eclipse?](http://www.codingpedia.org/ama/is-intellij-idea-shining-through-eclipse/) - (eclipse, ide, keyboard shortcuts)
+* [JRebel Intellij quick start](https://zeroturnaround.com/software/jrebel/quickstart/intellij/) - (intellij jrebel)
 
 ###<a name="java"></a>Java
 * core
