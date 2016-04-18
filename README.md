@@ -115,6 +115,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
  * [Git stash](https://git-scm.com/docs/git-stash)
 * [.gitignore.io](https://www.gitignore.io/) - \[ .gitignore files \]
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) - \[ the git flow, gitflow, [gitflow-github](https://github.com/nvie/gitflow) \]
+* [Resolving a merge conflict from the command line](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/) - [git resolve conflict, git merge conflict, github]
 
 ###<a name="html5"></a>Html 5
 * [Using HTML5 audio and video](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) - (html5 audio, html5 video, html5 mdn)
