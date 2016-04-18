@@ -7,7 +7,8 @@
 * [Docker](#docker)
 * [DNS](#dns)
 * [Functional programming](#functional-programming)
-* [Git](#git)git
+* [Git](#git)
+* [Gulp](#gulp)
 * [IntelliJ](#intellij)
 * [Html 5](#html5)
 * [Java](#java)
@@ -116,6 +117,9 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [.gitignore.io](https://www.gitignore.io/) - \[ .gitignore files \]
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) - \[ the git flow, gitflow, [gitflow-github](https://github.com/nvie/gitflow) \]
 * [Resolving a merge conflict from the command line](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/) - [git resolve conflict, git merge conflict, github]
+
+###<a name="gulp"></a>Gulp 
+* [Getting started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - [gulp getting started, gulp install, gulp install global]
 
 ###<a name="html5"></a>Html 5
 * [Using HTML5 audio and video](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) - (html5 audio, html5 video, html5 mdn)
