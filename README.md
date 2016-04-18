@@ -179,6 +179,7 @@ https://tools.ietf.org/html/rfc7519
 * `var bla = $('#txt_name').val();` - [jquery select input value, jquery get input value]
 * `$('#txt_name').val('bla');` - [jquery set input value] 
 * `var selected_option = $('#mySelectBox option:selected');` - [jquery get selected option] 
+* [Loading Scripts with jQuery](https://davidwalsh.name/loading-scripts-jquery) - [jquery load scripts]
 
 ### Keycloak - \[sso, idm, REST, oauth2, openid-connect, jwt, saml2\]
 [Keycloak](http://keycloak.jboss.org/) is an integrated SSO and IDM for browser apps and RESTful web services.  Built on top of the OAuth 2.0, Open ID Connect, JSON Web Token (JWT) and SAML 2.0 specifications. 
