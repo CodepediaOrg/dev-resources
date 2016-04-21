@@ -120,6 +120,9 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 
 ###<a name="gulp"></a>Gulp 
 * [Getting started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - [gulp getting started, gulp install, gulp install global]
+* [Gulp run-sequence](https://www.npmjs.com/package/run-sequence) runs a sequence of gulp tasks in the specified order. This function is designed to solve the situation where you have defined run-order, but choose not to or cannot use dependencies - [gulp run sequence, gulp run tasks sequential]
+* [Why Use Pump?](https://github.com/terinjokes/gulp-uglify/blob/master/docs/why-use-pump/README.md#why-use-pump) When using pipe from the Node.js streams, errors are not propagated forward through the piped streams, and source streams aren’t closed if a destination stream closed. The pump module normalizes these problems and passes you the errors in a callback. - [gulp-uglify, gulp pump, gulp error]
+* [Get started with gulp Part 3: Uglify & environment variables](https://www.youtube.com/watch?v=gRzCAyNrPV8)  - [gulp-if, gulp-uglify, gulp env variables, gulp environment variables]
 
 ###<a name="html5"></a>Html 5
 * [Using HTML5 audio and video](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) - (html5 audio, html5 video, html5 mdn)
