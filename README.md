@@ -123,6 +123,8 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [Gulp run-sequence](https://www.npmjs.com/package/run-sequence) runs a sequence of gulp tasks in the specified order. This function is designed to solve the situation where you have defined run-order, but choose not to or cannot use dependencies - [gulp run sequence, gulp run tasks sequential]
 * [Why Use Pump?](https://github.com/terinjokes/gulp-uglify/blob/master/docs/why-use-pump/README.md#why-use-pump) When using pipe from the Node.js streams, errors are not propagated forward through the piped streams, and source streams aren’t closed if a destination stream closed. The pump module normalizes these problems and passes you the errors in a callback. - [gulp-uglify, gulp pump, gulp error]
 * [Get started with gulp Part 3: Uglify & environment variables](https://www.youtube.com/watch?v=gRzCAyNrPV8)  - [gulp-if, gulp-uglify, gulp env variables, gulp environment variables]
+* [A Simple Gulp’y Workflow For Sass](http://www.sitepoint.com/simple-gulpy-workflow-sass/) - [gulp sass workflow, sass source maps] 
+* [Gulp sass](https://github.com/dlmanning/gulp-sass) Sass plugin for Gulp. - [gulp-sass github, gulp sass github] 
 
 ###<a name="html5"></a>Html 5
 * [Using HTML5 audio and video](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) - (html5 audio, html5 video, html5 mdn)
@@ -167,6 +169,9 @@ The JavaScript Guide shows you how to use JavaScript and gives an overview of th
 * [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) - \[mdn, mozilla, javascript-core\]
 * [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) - [mdn, javascript-core]
 * [Debugging JavaScript in Chrome](https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints/) - [chrome, devtools, google developers ]
+* [Introduction to JavaScript Source Maps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/) - [javascript debug, javascript chrome debug] 
+
+ 
 
 ### <a name="jboss"></a>Jboss
 * [Module descriptors](https://docs.jboss.org/author/display/MODULES/Module+descriptors) - [jboss oficial docs, jboss docs, jboss module descriptors, jboss modules]
