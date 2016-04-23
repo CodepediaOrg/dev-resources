@@ -8,6 +8,7 @@
 * [DNS](#dns)
 * [Functional programming](#functional-programming)
 * [Git](#git)
+* [Github](#github)
 * [Gulp](#gulp)
 * [IntelliJ](#intellij)
 * [Html 5](#html5)
@@ -119,7 +120,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [Resolving a merge conflict from the command line](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/) - [git resolve conflict, git merge conflict, github]
  
 ###<a name="github"></a>Github
-* [Using pull requests](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - [gulp getting started, gulp install, gulp install global]
+* [Using pull requests](https://help.github.com/articles/using-pull-requests/) - [github using pull requests, github pull request]
 
 ###<a name="gulp"></a>Gulp
 * [Getting started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - [gulp getting started, gulp install, gulp install global]
