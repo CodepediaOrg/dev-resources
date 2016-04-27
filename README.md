@@ -42,6 +42,7 @@
 * [Shell scripting](#shell-scripting)
 * [Spring](#spring)
 * [Spring Security](#spring-security)
+* [SVG](#svg)
 * [Tomcat](#tomcat)
 * [Twitter](#twitter)
 * [vi/vim](#vi)
@@ -388,6 +389,11 @@ Scrum is a management framework for incremental product development using one or
 
 ### <a name="spring-security"></a>Spring security
 * [Spring Security Reference](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - [official, htmlsingle]
+
+### <a name="svg"></a>Scalable Vector Graphics (SVG)
+Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium (W3C) since 1999.
+* [SVG Tutorial W3schools](http://www.w3schools.com/svg/default.asp) - [svg basics]
+* [SVG Tutorial MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial) - [svg basics]
 
 ### <a name="tomcat"></a>Tomcat
 [Apache Tomcat™](http://tomcat.apache.org/) is an open source software implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. The Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket specifications are developed under the Java Community Process.
