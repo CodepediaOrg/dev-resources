@@ -7,6 +7,7 @@
 * [Dev Utilities & Power Tools](#dev-utilities)
 * [Docker](#docker)
 * [DNS](#dns)
+* [Facebook Developers](#facebook)
 * [Functional programming](#functional-programming)
 * [Git](#git)
 * [Github](#github)
@@ -15,7 +16,7 @@
 * [Html 5](#html5)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [JBoss](#jboss)
+* [JBoss](#jboss)>
 * [JWT - JSON Web Tokens](#jwt)
 * [Jekyll](#jekyll)
 * [jQuery](#jquery)
@@ -91,6 +92,10 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [Docker user guide](https://docs.docker.com/engine/userguide/) - \[official, docker beginner\]
 * [How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04) - [digitalocean, docker-compose]
 * [Docker MySQL Persistence]() - \[2015.03, mysql, data volumes\]
+
+###<a name="facebook"></a>[Facebook developer](https://developers.facebook.com/)
+* [Sharing Debugger](https://developers.facebook.com/tools/debug/) - [facebook share debug]
+* [Facebook Social plugins](https://developers.facebook.com/docs/plugins)
 
 ###<a name="functional-programming"></a>Functional programming
 * [What is functional programming](http://blog.jenkster.com/2015/12/what-is-functional-programming.html) - \[ functional programming introduction, side effects, side causes, pure functions \]
