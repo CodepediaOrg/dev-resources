@@ -4,6 +4,7 @@
 * [AngularJS 2](#angularjs2)
 * [Arquillian](#Arquillian)
 * [CSS](#css)
+* [Database Design](#db-design)
 * [Dev Utilities & Power Tools](#dev-utilities)
 * [Docker](#docker)
 * [DNS](#dns)
@@ -69,6 +70,11 @@
 
 ### CSS
 * [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp) (basics, w3schools)
+
+### <a name="db-design"></a>Database Design
+* [Single Table Inheritance](http://martinfowler.com/eaaCatalog/singleTableInheritance.html) - represents an inheritance hierarchy of classes as a single table that has columns for all the fields of the various classes. [db design table inheritance, design patterns, eaa]
+* [Class Table Inheritance](http://martinfowler.com/eaaCatalog/classTableInheritance.html) - represents an inheritance hierarchy of classes with one table for each class. [db design table inheritance, design patterns, eaa]
+* [Concrete Table Inheritance](http://martinfowler.com/eaaCatalog/concreteTableInheritance.html) - represents an inheritance hierarchy of classes with one table per concrete class in the hierarchy. [db design table inheritance, design patterns, eaa]
 
 ###<a name="dev-utilities"></a>Dev Utilities & Power Tools
 Collection of utilities 
