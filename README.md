@@ -234,6 +234,8 @@ https://tools.ietf.org/html/rfc7519
   * `df -h` - disaplay disk usage in human readable format - [linux disk usage, linux show disk usage, linux show free disk space]
   * `netstat -tulpn | grep 8443` - verify which process listens on port 8443; \[ linux listen port command, linux netstat\]
   * `hostname` - show or set the system's host name [show hostname] 
+  * `find . -name "*.bak" -type f` - find recursively files with extension [linux find recursively]
+  * `find . -name "*.bak" -type f -delete` - delete recursively files with extension; use the previous function to make sure what you are deleting [linux delete recursively]
   * [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/) - \[bash, ss64\]  
   * [Finding a File Containing a Particular Text String In Linux Server](http://www.cyberciti.biz/faq/howto-search-find-file-for-text-string/) - \[grep, egrep, search, find] 
   * [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - \[nixCraft\]
