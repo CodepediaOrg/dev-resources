@@ -89,10 +89,11 @@ Collection of utilities
 * [regex101](https://regex101.com/) - \[ regex debugger, regex highlighting, regex error detection \]
 * [Memory Analyzer (MAT)](http://www.eclipse.org/mat) - \[ java heap analyzer, java heap dump \] 
 
-###<a name="dns"></a> DNS
+###<a name="dns"></a>DNS
 Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They maintain a directory of domain names and translate them to Internet Protocol (IP) addresses. This is necessary because, although domain names are easy for people to remember, computers or machines, access websites based on IP addresses.
 * [What Is DNS? | GoDaddy](https://www.youtube.com/watch?v=jS-535UqCCk) - \[ dns introduction video, dns video \]
 * [An Introduction to Managing DNS](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-managing-dns) - \[ dns digitalocean, dns terminology, dns how to \]
+* [DNS Propagation Checker](https://www.whatsmydns.net/) 
 
 ### Docker
 [Docker](https://www.docker.com/what-docker) allows you to package an application with all of its dependencies into a standardized unit for software development.
