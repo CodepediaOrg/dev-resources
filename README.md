@@ -326,6 +326,7 @@ Nginx (pronounced "engine x") is a web server with a strong focus on high concur
 * [Nginx Serving Static Content and Java Application Server](http://developer-should-know.tumblr.com/post/112512171397/nginx-serving-static-content-and-java-application) - \[ nginx jboss, nginx wildfly \]
 * [Installing Nginx in Mac OS X Mountain Lion With Homebrew](http://learnaholic.me/2012/10/10/installing-nginx-in-mac-os-x-mountain-lion/) - \[ nginx install mac, nginx installation mac \]
 * [Optimizing HTTPS on Nginx](https://bjornjohansen.no/optimizing-https-nginx) - \[ nginx https optimization \]
+* [Increase file upload size limit in PHP-Nginx](https://easyengine.io/tutorials/php/increase-file-upload-size-limit/) - [ nginx file upload size]
 
 ###  <a name="nodejs"></a>NodeJS
 * [Node Version Manager](https://github.com/creationix/nvm) Simple bash script to manage multiple active node.js versions - \[github, 10k+ stars, nodejs nvm\]
