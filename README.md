@@ -239,6 +239,7 @@ https://tools.ietf.org/html/rfc7519
   * `find . -name "*.bak" -type f -delete` - delete recursively files with extension; use the previous function to make sure what you are deleting [linux delete recursively]
   * `cut -d: -f1 /etc/passwd` - list all users [linux list all users, linux show all users]
   * `passwd username` - as roote change password of the user __username__ [linux change user password]
+  * `cat /proc/cpuinfo |grep processor` - verify number of processors [linux number processors, linux verify processors]
   * [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/) - \[bash, ss64\]  
   * [Finding a File Containing a Particular Text String In Linux Server](http://www.cyberciti.biz/faq/howto-search-find-file-for-text-string/) - \[grep, egrep, search, find] 
   * [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - \[nixCraft\]
