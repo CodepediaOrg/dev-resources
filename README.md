@@ -115,6 +115,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
  * `git stash` - takes the dirty state of your working directory — that is, your modified tracked files and staged changes — and saves it on a stack of unfinished changes that you can reapply at any time. Link - [https://git-scm.com/book/en/v1/Git-Tools-Stashing](https://git-scm.com/book/en/v1/Git-Tools-Stashing)
  * `git stash pop` - takes a stashed change, removes it from the “stash stack”, and applies it to your current working tree; beware - [‘git stash pop’ considered harmful](https://codingkilledthecat.wordpress.com/2012/04/27/git-stash-pop-considered-harmful/)
  * `git checkout -b feature_branch_name` - create new local branch - \[ git branch, git new branch, git new local branch\]
+ * `git checkout -b feature_branch_name origin/feature_branch_name` - create new local branch from remote branch (make sure you do a `git fetch` before) - \[ git branch, git new branch, git new local branch from remote, git checkout \]
  * `git push -u origin feature_branch_name` - push new branch remote - \[ git push branch remote\]
  * `git branch -d feature_branch_name` - deletes local branch - \[ git delete branch locally, git remove branch local\]
  * `git push origin --delete feature_branch_name` - deletes branch remote - \[ git delete branch remote, git remove branch remote\]
