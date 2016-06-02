@@ -24,6 +24,7 @@
 * [Keycloak](#keycloak)
 * [Linux/Unix](#linux-unix)
 * [Linux Mint/Ubuntu](#mint-ubuntu)
+* [Markdown](#markdown)
 * [Maven](#maven)
 * [Mockito](#mockito)
 * [MyBatis](#mybatis)
@@ -256,6 +257,8 @@ https://tools.ietf.org/html/rfc7519
 ### <a name="mint-ubuntu"></a>Linux Mint/Ubuntu
 * [Use alias to create shortcuts for commands](http://community.linuxmint.com/tutorial/view/891) - \[alias, shortcut, efficiency\] 
  
+### <a name="markdown"></a>Markdown
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - [markdown github]
 
 ### <a name="maven"></a>Maven
 [Maven](https://maven.apache.org/what-is-maven.html), a Yiddish word meaning accumulator of knowledge, was originally started as an attempt to simplify the build processes in the Jakarta Turbine project. There were several projects each with their own Ant build files that were all slightly different and JARs were checked into CVS. We wanted a standard way to build the projects, a clear definition of what the project consisted of, an easy way to publish project information and a way to share JARs across several projects.
