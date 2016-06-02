@@ -12,6 +12,7 @@
 * [Functional programming](#functional-programming)
 * [Git](#git)
 * [Github](#github)
+* [Github Pages](#github-pages)
 * [Gulp](#gulp)
 * [IntelliJ](#intellij)
 * [Html 5](#html5)
@@ -142,6 +143,9 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 ###<a name="github"></a>Github
 * [Using pull requests](https://help.github.com/articles/using-pull-requests/) - [github using pull requests, github pull request]
 
+###<a name="github-pages"></a>Github Pages
+* [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/) - [github pages introduction, github pages example, github pages blog]
+ 
 ###<a name="gulp"></a>Gulp
 * [Getting started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - [gulp getting started, gulp install, gulp install global]
 * [Gulp run-sequence](https://www.npmjs.com/package/run-sequence) runs a sequence of gulp tasks in the specified order. This function is designed to solve the situation where you have defined run-order, but choose not to or cannot use dependencies - [gulp run sequence, gulp run tasks sequential]
