@@ -119,7 +119,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
  * `git checkout -b feature_branch_name origin/feature_branch_name` - create new local branch from remote branch (make sure you do a `git fetch` before) - \[ git branch, git new branch, git new local branch from remote, git checkout \]
  * `git push -u origin feature_branch_name` - push new branch remote - \[ git push branch remote\]
  * `git branch -d feature_branch_name` - deletes local branch - \[ git delete branch locally, git remove branch local\]
- * `git push origin --delete feature_branch_name` - deletes branch remote - \[ git delete branch remote, git remove branch remote\]
+ * `git push origin --delete feature_branch_name` - deletes branch remote - [git delete remote branch, git delete branch remote, git remove branch remote]
  * `git log` - the [git log](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-log/) command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes.
   * `git log --pretty=oneline` - shows checksum with git commit message 
  * `git fetch -p OR git fetch --prune` - [Automatic prune with git fetch or pull](http://stackoverflow.com/questions/18308535/automatic-prune-with-git-fetch-or-pull) [git fetch remote branches, git fetch update branches]
