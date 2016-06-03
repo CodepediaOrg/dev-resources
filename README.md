@@ -145,6 +145,8 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 
 ###<a name="github-pages"></a>Github Pages
 * [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/) - [github pages introduction, github pages example, github pages blog]
+* [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) - [github help]
+* [User, Organization, and Project Pages](https://help.github.com/articles/user-organization-and-project-pages/) - [github help]
  
 ###<a name="gulp"></a>Gulp
 * [Getting started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - [gulp getting started, gulp install, gulp install global]
