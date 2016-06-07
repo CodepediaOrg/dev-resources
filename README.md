@@ -406,6 +406,7 @@ Scrum is a management framework for incremental product development using one or
 ### <a name="security"></a>Security
 * [Keeping your secrets](http://www.infoq.com/articles/keeping-your-secrets) - \[ security tls, security ssl, security java tls, security public key\]
 * [Roles versus Groups](http://profsandhu.com/workshop/role-group.pdf) - [ _security roles and groups, security groups_ ]
+* [SSL Server Test](https://www.ssllabs.com/ssltest/index.html) - this free online service performs a deep analysis of the configuration of any SSL web server on the public Internet. [ssl testing, ssl web server, ssl test]
 
 ### <a name="seo"></a>SEO - Search Engine Optimization
 * [SEO advice: url canonicalization](https://www.mattcutts.com/blog/seo-advice-url-canonicalization/) - \[ 2006.01, @mattcutts  google\]
