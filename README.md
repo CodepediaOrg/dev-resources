@@ -18,7 +18,8 @@
 * [Html 5](#html5)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [JBoss](#jboss)>
+* [JBoss](#jboss)
+* [JMeter](#jmeter)
 * [JWT - JSON Web Tokens](#jwt)
 * [Jekyll](#jekyll)
 * [jQuery](#jquery)
@@ -203,10 +204,12 @@ The JavaScript Guide shows you how to use JavaScript and gives an overview of th
 * [Introduction to JavaScript Source Maps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/) - [javascript debug, javascript chrome debug] 
 
  
-
 ### <a name="jboss"></a>Jboss
 * [Module descriptors](https://docs.jboss.org/author/display/MODULES/Module+descriptors) - [jboss oficial docs, jboss docs, jboss module descriptors, jboss modules]
-* 
+
+### <a name="jmeter"></a>JMeter
+* [Getting started with JMeter](http://jmeter.apache.org/usermanual/get-started.html) - [jmeter official docs, jmeter docs, jmeter installation, jmeter proxy configuration]
+
 ### <a name="jwt"></a>JWT - JSON Web Tokens - [web-security, json]
 JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with HMAC algorithm) or a public/private key pair using RSA.
 https://tools.ietf.org/html/rfc7519
