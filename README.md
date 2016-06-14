@@ -252,6 +252,13 @@ https://tools.ietf.org/html/rfc7519
   * `cut -d: -f1 /etc/passwd` - list all users [linux list all users, linux show all users]
   * `passwd username` - as roote change password of the user __username__ [linux change user password]
   * `cat /proc/cpuinfo |grep processor` - verify number of processors [linux number processors, linux verify processors]
+  * Zip/unzip [linux zip, linux unzip]
+   * `zip data *` - creates data.zip and puts all files in the current directory; no need to add the .zip extension - is done automatically
+   * `zip -r data *` - to zip up an entire directory (including all subdirectories)
+   * `unzip data.zip` - unzip all files of the archive into the current directory & subdirectories
+   * `unzip data.zip file.doc` - extracts only the file called __file.doc__ from data.zip
+   * `unzip data.zip -d /tmp` - extracts all files into the __/tmp__ directory
+   * `unzip -l data.zip` - lists all files from the __data.zip__
   * [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/) - \[bash, ss64\]  
   * [Finding a File Containing a Particular Text String In Linux Server](http://www.cyberciti.biz/faq/howto-search-find-file-for-text-string/) - \[grep, egrep, search, find] 
   * [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - \[nixCraft\]
