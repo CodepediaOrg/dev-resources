@@ -219,7 +219,9 @@ https://tools.ietf.org/html/rfc7519
 ### <a name="jekyll"></a>Jekyll
 [Jekyll](http://jekyllrb.com/docs/home/) is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
 * [Get the value in an input text box](http://stackoverflow.com/questions/4088467/get-the-value-in-an-input-text-box) - [jquery select input value, jquery get input value]
-* [Jeykll Now Github](https://github.com/barryclark/jekyll-now) - makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup.
+* [Jeykll Now Github](https://github.com/barryclark/jekyll-now) - makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup. 
+* [Jekyll Syntax highlighting](https://thedereck.github.io/gh-pages-blog/user-manual/syntax-highlighting.html)
+* [Improve Code Highlighting in a Jekyll-based Blog Sit](https://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html)
 
 ### <a name="jquery"></a>jquery
 [jQuery](https://jquery.com/)  is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
