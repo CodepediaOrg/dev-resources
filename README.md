@@ -224,6 +224,7 @@ https://tools.ietf.org/html/rfc7519
 * [Improve Code Highlighting in a Jekyll-based Blog Sit](https://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html)
 * [How I Added Teaser and Read-more Functionality to My Jekyll Blog on GitHub Pages](http://www.seanbuscay.com/blog/jekyll-teaser-pager-and-read-more/)- [jekyll read more, jekyll teaser]
 * [Jekyll pagination](https://jekyllrb.com/docs/pagination/)
+* [Jekyll Themes](https://jekyllrb.com/docs/pagination/) - list of Jekyll themes on Github
 
 ### <a name="jquery"></a>jquery
 [jQuery](https://jquery.com/)  is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
