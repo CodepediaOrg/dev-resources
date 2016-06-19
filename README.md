@@ -218,16 +218,18 @@ https://tools.ietf.org/html/rfc7519
 
 ### <a name="jekyll"></a>Jekyll
 [Jekyll](http://jekyllrb.com/docs/home/) is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+* [Jekyll introduction](http://jekyllbootstrap.com/lessons/jekyll-introduction.html) - on jekyll boostrap
 * [Get the value in an input text box](http://stackoverflow.com/questions/4088467/get-the-value-in-an-input-text-box) - [jquery select input value, jquery get input value]
 * [Jeykll Now Github](https://github.com/barryclark/jekyll-now) - makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup. 
 * [Jekyll Syntax highlighting](https://thedereck.github.io/gh-pages-blog/user-manual/syntax-highlighting.html)
 * [Improve Code Highlighting in a Jekyll-based Blog Sit](https://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html)
 * [How I Added Teaser and Read-more Functionality to My Jekyll Blog on GitHub Pages](http://www.seanbuscay.com/blog/jekyll-teaser-pager-and-read-more/)- [jekyll read more, jekyll teaser]
 * [Jekyll pagination](https://jekyllrb.com/docs/pagination/)
+* [Switching from pygments to hightlight.sj](http://skim.la/2012/06/18/switching-from-pygments-to-highlight-js/) - [jekyll highlight.js, jekyll syntax highlight]
 * [Jekyll Themes](https://jekyllrb.com/docs/pagination/) - list of Jekyll themes on Github
  * [jekyllBasicBlog](https://github.com/bchetty/jekyllBasicBlog) - a simple, minimal, responsive blog theme built using Jekyll 
  * [JekyllOrg](https://github.com/damianeoloan/JekyllOrg) - a Jekyll theme for organizations & non-profits 
- * [JekyllOrg](https://github.com/aron-bordin/neo-hpstr-jekyll-theme) - a Jekyll blog theme http://aronbordin.com/neo-hpstr-jekyll-theme/ 
+ * [neo-hpstr-jekyll-theme](https://github.com/aron-bordin/neo-hpstr-jekyll-theme) - a Jekyll blog theme http://aronbordin.com/neo-hpstr-jekyll-theme/ 
  * [codeinventory](https://github.com/codeinventory/codeinventory.github.io) 
  * [Minimal mistakes](https://github.com/mmistakes/minimal-mistakes) - a flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.
 
