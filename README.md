@@ -91,6 +91,7 @@ Collection of utilities
 * [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects. It provides two- and three-way comparison of both files and directories, and has support for many popular version control systems. \[ git mergetool \]
 * [regex101](https://regex101.com/) - \[ regex debugger, regex highlighting, regex error detection \]
 * [Memory Analyzer (MAT)](http://www.eclipse.org/mat) - \[ java heap analyzer, java heap dump \] 
+* [Freeformatter)](http://www.freeformatter.com/) - \[ json formatter, html formatter, xml formatter, html escape, html unescape, code minifier, css minifier \]
 
 ###<a name="dns"></a>DNS
 Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They maintain a directory of domain names and translate them to Internet Protocol (IP) addresses. This is necessary because, although domain names are easy for people to remember, computers or machines, access websites based on IP addresses.
