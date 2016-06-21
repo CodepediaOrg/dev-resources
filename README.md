@@ -258,6 +258,7 @@ https://tools.ietf.org/html/rfc7519
   * `ln -s path-to-actual-folder name-of-link ` - create symbolic link to folder; `ls -ld name-of-link` confirm the link; `rm name-of-link OR unlink name-of-link` remove the link; - \[linux symbolic link\]
   * `touch "foo.backup.$(date +%F_%R)"` - add time extension to file name, good for backup \[linux backup\]
   * `grep -ri "text" /path/to/dir` - recursevily find text through all sub-directories;  `-i` ignore-case - \[linux grep, linux find text in directory\]
+  * `grep -rli "text" /path/to/dir` - `-l` show only file names - \[linux grep filename, linux find text in directory\]
   * `df -h` - disaplay disk usage in human readable format - [linux disk usage, linux show disk usage, linux show free disk space]
   * `netstat -tulpn | grep 8443` - verify which process listens on port 8443; \[ linux listen port command, linux netstat\]
   * `hostname` - show or set the system's host name [show hostname] 
