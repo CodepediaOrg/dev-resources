@@ -144,6 +144,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
  
 ###<a name="github"></a>Github
 * [Using pull requests](https://help.github.com/articles/using-pull-requests/) - [github using pull requests, github pull request]
+* [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) - [github contributing, github guides]
 
 ###<a name="github-pages"></a>Github Pages
 * [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/) - [github pages introduction, github pages example, github pages blog]
