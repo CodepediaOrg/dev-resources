@@ -231,6 +231,8 @@ https://tools.ietf.org/html/rfc7519
 * [How I Added Teaser and Read-more Functionality to My Jekyll Blog on GitHub Pages](http://www.seanbuscay.com/blog/jekyll-teaser-pager-and-read-more/)- [jekyll read more, jekyll teaser]
 * [Jekyll pagination](https://jekyllrb.com/docs/pagination/)
 * [Switching from pygments to hightlight.sj](http://skim.la/2012/06/18/switching-from-pygments-to-highlight-js/) - [jekyll highlight.js, jekyll syntax highlight]
+* [Jekyll multiple authors gist](https://gist.github.com/ravasthi/1834570)
+* [Multiple Authors in Jekyll](http://www.delaytolerantnetworks.com/authors-jekyll/) - (jekyll multiple authors)
 * [Jekyll Themes](https://jekyllrb.com/docs/pagination/) - list of Jekyll themes on Github
  * [jekyllBasicBlog](https://github.com/bchetty/jekyllBasicBlog) - a simple, minimal, responsive blog theme built using Jekyll 
  * [JekyllOrg](https://github.com/damianeoloan/JekyllOrg) - a Jekyll theme for organizations & non-profits 
