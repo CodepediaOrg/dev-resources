@@ -303,6 +303,7 @@ The result is a tool that can now be used for building and managing any Java-bas
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/index.html) - \[sonatype, reference book\]
 * [Setting the -source and -target of the Java Compiler](https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html) - \[maven-compiler, plugin\]
 * [Introduction to Build Profiles](http://maven.apache.org/guides/introduction/introduction-to-profiles.html) - \[ maven profiles introduction, maven apache doc\]
+* [Introduction to the Dependency Mechanism](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html) - currently, Maven 2.0 only supports using the "nearest definition" which means that it will use the version of the closest dependency to your project in the tree of dependencies - \[maven dependency introduction, maven dependency management\]
 * Maven plugins
  * [Apache Maven Assembly Plugin](http://maven.apache.org/plugins/maven-assembly-plugin/) - the Assembly Plugin for Maven is primarily intended to allow users to aggregate the project output along with its dependencies, modules, site documentation, and other files into a single distributable archive.
  * [Apache Maven Clean Plugin](https://maven.apache.org/plugins/maven-clean-plugin/) - the Clean Plugin is used when you want to remove files generated at build-time in a project's directory.
