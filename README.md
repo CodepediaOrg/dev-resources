@@ -132,6 +132,8 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
   * `git tag -l "v.1.8.5"` - search for tags with a particular system `v1.8.5, v1.8.5-rc0, v1.8.5.1 etc` [git tag]
   * `git tag -a v1.4 -m "my version 1.4"` - create annotated tag; annotated tags are stored as full objects in git database; they are checksummed, contain the tagger name, eamil and date - `git show v1.4` [git tag, git show tag data]
   * `git tag v1.4-lw` - commit a lightweight tag. This is basically the commit checksum stored in a file – no other information is kept. To create a lightweight tag, don’t supply the -a, -s, or -m option - `git show v1.4-lw` [git tag, git show tag data]
+  * `git tag --delete tagname` OR `git tag --delete tagname` - delete local tag - (git tag delete, git delete tag, git remove tag)
+  * `git push --delete origin tagname` - delete remote tag - (git tag delete remote, git delete tag remote, git remove tag remote)
   * `git push origin v1.5"` - by default, the git push command doesn’t transfer tags to remote servers. You will have to explicitly push tags to a shared server after you have created them. This process is just like sharing remote branches – you can run git push origin [tagname] [git push tag remote]
   * `git push origin --tags` -  you have a lot of tags that you want to push up at once, you can also use the --tags option to the git push command. This will transfer all of your tags to the remote server that are not already there. [git push tags remote]
  * `git reset --hard` - discard all local cahnges; maybe consider doing a `git stash` before  [git revert, git discard changes, git reset]
