@@ -167,6 +167,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 
 ###<a name="html5"></a>Html 5
 * [Using HTML5 audio and video](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) - (html5 audio, html5 video, html5 mdn)
+* [How to Add a Favicon to your Site](https://www.w3.org/2005/10/howto-favicon)
 
 ###<a name="intellij"></a>IntelliJ
 * [Is IntelliJ IDEA shining through Eclipse?](http://www.codingpedia.org/ama/is-intellij-idea-shining-through-eclipse/) - (eclipse, ide, keyboard shortcuts)
