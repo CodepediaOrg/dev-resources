@@ -1,4 +1,4 @@
-# dev-bookmarks
+# dev-bookmarks (*CTRL + F* and relevant search tag)
 * [Active Directory](#ad)
 * [AngularJS](#angularjs)
 * [AngularJS 2](#angularjs2)
