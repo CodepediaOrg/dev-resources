@@ -144,11 +144,13 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [.gitignore.io](https://www.gitignore.io/) - \[ .gitignore files \]
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) - \[ the git flow, gitflow, [gitflow-github](https://github.com/nvie/gitflow) \]
 * [Resolving a merge conflict from the command line](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/) - [git resolve conflict, git merge conflict, github]
+* [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
  
 ###<a name="github"></a>Github
 * [Using pull requests](https://help.github.com/articles/using-pull-requests/) - [github using pull requests, github pull request]
 * [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) - [github contributing, github guides]
 * [Introducing organization](https://github.com/blog/674-introducing-organizations) - (github organisations)
+* [The beginner's guide to contributing to a GitHub project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) - (github contributing)
 
 ###<a name="github-pages"></a>Github Pages
 * [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/) - [github pages introduction, github pages example, github pages blog]
