@@ -159,6 +159,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [Sitemaps for GitHub Pages](https://help.github.com/articles/sitemaps-for-github-pages/) - [github help, github pages sitemaps]
 * [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/) - (github pages help, github help, github pages custom domain)
 * [Atom (RSS) feeds for GitHub Pages](https://help.github.com/articles/atom-rss-feeds-for-github-pages/) - (github pages help, github pages feed, github pages atom feed, github pages rss feed)
+* [GitHub Pages now faster and simpler with Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0) - (github pages jekyll 3.0)
  
 ###<a name="gulp"></a>Gulp
 * [Getting started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - [gulp getting started, gulp install, gulp install global]
@@ -305,6 +306,7 @@ https://tools.ietf.org/html/rfc7519
  
 ### <a name="markdown"></a>Markdown
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - [markdown github]
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - [markdown github]
 
 ### <a name="maven"></a>Maven
 [Maven](https://maven.apache.org/what-is-maven.html), a Yiddish word meaning accumulator of knowledge, was originally started as an attempt to simplify the build processes in the Jakarta Turbine project. There were several projects each with their own Ant build files that were all slightly different and JARs were checked into CVS. We wanted a standard way to build the projects, a clear definition of what the project consisted of, an easy way to publish project information and a way to share JARs across several projects.
