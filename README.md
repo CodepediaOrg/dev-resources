@@ -158,6 +158,7 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [User, Organization, and Project Pages](https://help.github.com/articles/user-organization-and-project-pages/) - [github help]
 * [Sitemaps for GitHub Pages](https://help.github.com/articles/sitemaps-for-github-pages/) - [github help, github pages sitemaps]
 * [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/) - (github pages help, github help, github pages custom domain)
+* [Atom (RSS) feeds for GitHub Pages](https://help.github.com/articles/atom-rss-feeds-for-github-pages/) - (github pages help, github pages feed, github pages atom feed, github pages rss feed)
  
 ###<a name="gulp"></a>Gulp
 * [Getting started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - [gulp getting started, gulp install, gulp install global]
