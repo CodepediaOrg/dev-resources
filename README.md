@@ -248,6 +248,7 @@ https://tools.ietf.org/html/rfc7519
  * [neo-hpstr-jekyll-theme](https://github.com/aron-bordin/neo-hpstr-jekyll-theme) - a Jekyll blog theme http://aronbordin.com/neo-hpstr-jekyll-theme/ 
  * [codeinventory](https://github.com/codeinventory/codeinventory.github.io) 
  * [Minimal mistakes](https://github.com/mmistakes/minimal-mistakes) - a flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.
+ * [Jekyll Front matter](http://jekyll.tips/jekyll-casts/front-matter/) - (jekyll complex variable, jekyll tips)
 
 ### <a name="jquery"></a>jquery
 [jQuery](https://jquery.com/)  is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
