@@ -36,6 +36,7 @@
 * [OAuth2] (#oauth2)
 * [OpenID Connect](#openid-connect)
 * [OracleDB] (#oracledb)
+* [Postgresql](#postgresql)
 * [Python](#python)
 * [Regex](#regex) 
 * [REST](#rest) 
@@ -410,6 +411,8 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
  *  `DESCRIBE table_name` - \[oracle show columsn from table\]
 * [ORACLE/PLSQL: ALTER TABLE STATEMENT](http://www.techonthenet.com/oracle/tables/alter_table.php) - [oracle alter table statement]
 
+### <a name="postgresql"></a>Postgresql
+* [Introduction to VACUUM, ANALYZE, EXPLAIN, and COUNT](https://wiki.postgresql.org/wiki/Introduction_to_VACUUM,_ANALYZE,_EXPLAIN,_and_COUNT) - \[postgresql documentation, postgresql performance\]
 
 ### <a name="python"></a>Python
 [Python](https://www.python.org/doc/essays/blurb/) is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.
