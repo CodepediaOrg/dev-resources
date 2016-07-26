@@ -414,6 +414,8 @@ OpenID Connect is an interoperable authentication protocol based on the OAuth 2.
 ### <a name="postgresql"></a>Postgresql
 * [Introduction to VACUUM, ANALYZE, EXPLAIN, and COUNT](https://wiki.postgresql.org/wiki/Introduction_to_VACUUM,_ANALYZE,_EXPLAIN,_and_COUNT) - \[postgresql documentation, postgresql performance\]
 * [Tuning Your PostgreSQL Server](https://wiki.postgresql.org/wiki/Tuning_Your_PostgreSQL_Server) - \[postgresql documentation, postgresql performance\]
+* [PostgreSQL formulae for the Homebrew package manager](https://github.com/petere/homebrew-postgresql) - running multiple postgresql versions
+* [PostgreSQL Joins](http://www.techonthenet.com/postgresql/joins.php)
 
 ### <a name="python"></a>Python
 [Python](https://www.python.org/doc/essays/blurb/) is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.
