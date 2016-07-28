@@ -15,6 +15,7 @@
 * [Github Pages](#github-pages)
 * [Gulp](#gulp)
 * [IntelliJ](#intellij)
+* [Ionic](#ionic)
 * [Html 5](#html5)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -178,6 +179,10 @@ Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They ma
 * [Is IntelliJ IDEA shining through Eclipse?](http://www.codingpedia.org/ama/is-intellij-idea-shining-through-eclipse/) - (eclipse, ide, keyboard shortcuts)
 * [JRebel Intellij quick start](https://zeroturnaround.com/software/jrebel/quickstart/intellij/) - (intellij jrebel)
 * [Configuring JVM options and platform properties](https://intellij-support.jetbrains.com/hc/en-us/articles/206544869-Configuring-JVM-options-and-platform-properties) - (intellij vm options, intellij configure vm options)
+
+###<a name="ionic"></a>Ionic
+* [Handling CORS issues in Ionic](http://blog.ionic.io/handling-cors-issues-in-ionic/)
+
 
 ###<a name="java"></a>Java
 * core
