@@ -1,3 +1,6 @@
+# GO TO [https://github.com/Codingpedia/codingmarks](https://github.com/Codingpedia/codingmarks)
+It has much more bookmarks and better organised
+
 # dev-bookmarks (*CTRL + F* and relevant search tag)
 * [Active Directory](#ad)
 * [AngularJS](#angularjs)
